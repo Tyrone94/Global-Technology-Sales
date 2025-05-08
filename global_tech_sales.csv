@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Region,CustomerSegment,Category,Product,Sales,Quantity,Discount,Profit,ShippingMode
+ORD10000,2022-05-02,Africa,Enterprise,Accessories,Keyboard,1154.89,8,0.0,230.07,Second Class
+ORD10001,2023-10-26,Europe,Small Business,Networking,Router,510.18,8,0.0,102.18,Same Day
+ORD10002,2023-02-18,Asia-Pacific,Enterprise,Smartphones,Samsung Galaxy S22,1970.12,5,0.1,408.7,First Class
+ORD10003,2022-01-22,Africa,Consumer,Smartphones,Google Pixel 6,676.4,5,0.0,85.27,Same Day
+ORD10004,2023-05-26,Middle East,Small Business,Software,CRM Tool,70.85,9,0.0,12.84,First Class
+ORD10005,2023-05-20,Asia-Pacific,Enterprise,Smartphones,Google Pixel 6,461.51,3,0.3,57.68,Standard Class
+ORD10006,2022-06-16,Middle East,Consumer,Software,Adobe Suite,187.03,3,0.2,13.86,Same Day
+ORD10007,2022-12-12,Middle East,Enterprise,Smartphones,OnePlus 9,89.13,9,0.3,11.91,First Class
+ORD10008,2023-03-31,Asia-Pacific,Corporate,Networking,Firewall Device,338.13,4,0.3,37.88,First Class
+ORD10009,2022-03-22,North America,Consumer,Software,CRM Tool,1849.49,8,0.2,138.11,First Class
+ORD10010,2023-01-25,North America,Corporate,Software,Adobe Suite,813.4,8,0.3,72.84,Same Day
+ORD10011,2023-02-06,South America,Small Business,Networking,Switch,663.43,4,0.1,34.53,First Class
+ORD10012,2022-09-27,Europe,Corporate,Networking,Router,2336.64,2,0.1,575.6,First Class
+ORD10013,2023-12-03,Middle East,Corporate,Networking,Switch,2195.45,8,0.1,195.61,First Class
+ORD10014,2022-08-05,Europe,Consumer,Laptops,Dell XPS,1009.72,2,0.2,207.75,Second Class
+ORD10015,2022-03-06,Europe,Enterprise,Smartphones,Google Pixel 6,878.76,9,0.0,220.17,Standard Class
+ORD10016,2023-10-10,South America,Small Business,Accessories,Wireless Mouse,96.13,9,0.3,10.01,First Class
+ORD10017,2023-02-23,Europe,Corporate,Laptops,MacBook Air,66.29,3,0.0,15.1,First Class
+ORD10018,2022-02-10,North America,Enterprise,Smartphones,OnePlus 9,2325.25,5,0.1,292.18,First Class
+ORD10019,2022-02-02,Europe,Corporate,Networking,Router,2749.13,9,0.3,312.45,First Class
+ORD10020,2022-04-09,Europe,Corporate,Networking,Modem,237.5,7,0.1,28.06,Second Class
+ORD10021,2023-09-05,Asia-Pacific,Small Business,Laptops,Dell XPS,1794.33,6,0.2,273.18,First Class
+ORD10022,2023-05-18,Middle East,Enterprise,Smartphones,Google Pixel 6,2916.55,3,0.0,672.07,First Class
+ORD10023,2022-01-15,South America,Corporate,Smartphones,Google Pixel 6,2324.35,7,0.2,335.98,Standard Class
+ORD10024,2022-08-29,Asia-Pacific,Enterprise,Networking,Router,377.13,3,0.2,82.65,Same Day
+ORD10025,2022-08-19,South America,Corporate,Laptops,MacBook Air,977.35,4,0.1,74.62,Same Day
+ORD10026,2023-11-30,Africa,Corporate,Networking,Switch,1260.63,4,0.0,87.29,Standard Class
+ORD10027,2023-10-08,North America,Consumer,Software,CRM Tool,2099.62,2,0.1,476.25,Same Day
+ORD10028,2023-10-02,Middle East,Corporate,Laptops,Lenovo ThinkPad,1396.78,4,0.1,340.45,First Class
+ORD10029,2023-01-20,Middle East,Small Business,Smartphones,Google Pixel 6,2431.95,9,0.2,538.35,Same Day
+ORD10030,2022-09-16,Asia-Pacific,Corporate,Laptops,Dell XPS,722.41,9,0.3,69.86,Standard Class
+ORD10031,2023-11-08,Asia-Pacific,Corporate,Smartphones,Samsung Galaxy S22,70.51,8,0.2,8.71,First Class
+ORD10032,2023-11-03,South America,Corporate,Software,Antivirus Pro,2092.69,8,0.2,154.14,Second Class
+ORD10033,2023-05-12,Europe,Enterprise,Software,MS Office,1580.43,9,0.3,155.89,Standard Class
+ORD10034,2023-09-05,Africa,Consumer,Networking,Modem,799.05,7,0.1,164.01,Standard Class
+ORD10035,2023-10-04,North America,Corporate,Smartphones,OnePlus 9,890.28,1,0.2,144.15,Same Day
+ORD10036,2023-01-20,Middle East,Enterprise,Software,MS Office,1262.56,7,0.0,172.05,Standard Class
+ORD10037,2023-11-03,Asia-Pacific,Small Business,Laptops,Lenovo ThinkPad,756.71,2,0.0,130.43,Same Day
+ORD10038,2022-07-03,North America,Corporate,Accessories,Keyboard,1681.03,7,0.3,82.62,First Class
+ORD10039,2023-09-02,South America,Corporate,Software,Antivirus Pro,751.03,6,0.3,88.1,Same Day
+ORD10040,2022-11-22,North America,Consumer,Smartphones,Google Pixel 6,1918.91,1,0.0,249.83,Same Day
+ORD10041,2023-02-07,Middle East,Small Business,Software,Adobe Suite,2102.65,3,0.3,193.53,Standard Class
+ORD10042,2023-05-04,North America,Enterprise,Laptops,HP Spectre,2147.89,3,0.3,317.68,First Class
+ORD10043,2023-04-18,Middle East,Consumer,Software,CRM Tool,2088.27,7,0.1,487.58,Second Class
+ORD10044,2022-12-12,Asia-Pacific,Small Business,Networking,Switch,666.76,3,0.2,114.68,Same Day
+ORD10045,2022-10-31,Europe,Small Business,Software,CRM Tool,2947.4,4,0.3,237.69,Same Day
+ORD10046,2022-01-09,North America,Corporate,Laptops,MacBook Air,2897.99,5,0.0,784.37,Same Day
+ORD10047,2023-02-08,Asia-Pacific,Small Business,Laptops,Dell XPS,872.67,3,0.3,159.84,Standard Class
+ORD10048,2023-08-10,Europe,Small Business,Laptops,Dell XPS,2666.9,8,0.0,561.4,Same Day
+ORD10049,2022-09-11,Africa,Corporate,Networking,Modem,2810.12,4,0.1,549.44,Second Class
+ORD10050,2022-12-04,North America,Enterprise,Laptops,Lenovo ThinkPad,77.13,9,0.2,18.1,Second Class
+ORD10051,2022-06-10,Africa,Small Business,Laptops,MacBook Air,1482.56,3,0.3,309.9,Second Class
+ORD10052,2023-01-27,North America,Enterprise,Software,CRM Tool,103.32,5,0.3,17.11,Standard Class
+ORD10053,2023-04-05,Africa,Enterprise,Accessories,Wireless Mouse,2555.21,1,0.3,343.56,Second Class
+ORD10054,2023-11-01,North America,Small Business,Smartphones,iPhone 14,1551.0,6,0.2,139.73,Same Day
+ORD10055,2022-01-27,North America,Small Business,Accessories,Laptop Bag,2920.38,3,0.1,726.8,Second Class
+ORD10056,2023-04-26,North America,Consumer,Laptops,Dell XPS,2394.69,1,0.3,364.14,First Class
+ORD10057,2022-02-18,Europe,Corporate,Smartphones,Samsung Galaxy S22,625.97,3,0.3,24.57,Second Class
+ORD10058,2022-02-06,South America,Consumer,Smartphones,Samsung Galaxy S22,178.63,5,0.1,22.92,Standard Class
+ORD10059,2022-04-09,South America,Enterprise,Software,Antivirus Pro,2788.54,1,0.1,731.98,Standard Class
+ORD10060,2022-06-10,Europe,Corporate,Software,MS Office,2941.98,4,0.2,297.55,Same Day
+ORD10061,2023-07-20,North America,Enterprise,Laptops,Dell XPS,984.92,2,0.0,146.43,Standard Class
+ORD10062,2022-10-15,Europe,Enterprise,Laptops,MacBook Air,2103.29,8,0.1,140.64,First Class
+ORD10063,2023-05-05,Asia-Pacific,Enterprise,Networking,Router,2029.87,7,0.1,207.43,First Class
+ORD10064,2022-09-03,Asia-Pacific,Consumer,Smartphones,Google Pixel 6,2638.25,1,0.3,414.15,Same Day
+ORD10065,2023-02-12,Europe,Consumer,Software,CRM Tool,1110.5,7,0.1,252.39,Same Day
+ORD10066,2022-01-20,Asia-Pacific,Corporate,Accessories,Headphones,2744.06,7,0.0,567.95,Same Day
+ORD10067,2022-12-20,South America,Small Business,Laptops,Lenovo ThinkPad,1967.39,3,0.2,89.56,Standard Class
+ORD10068,2023-10-27,Europe,Enterprise,Networking,Firewall Device,327.25,7,0.2,15.44,Standard Class
+ORD10069,2022-11-01,North America,Corporate,Accessories,Headphones,507.37,6,0.1,121.05,Second Class
+ORD10070,2023-03-20,Middle East,Small Business,Smartphones,Samsung Galaxy S22,160.18,6,0.2,17.95,Same Day
+ORD10071,2023-09-12,North America,Corporate,Smartphones,Samsung Galaxy S22,1013.62,8,0.0,119.49,Second Class
+ORD10072,2022-12-16,South America,Enterprise,Accessories,Wireless Mouse,1887.53,4,0.1,106.89,First Class
+ORD10073,2022-09-26,Asia-Pacific,Corporate,Laptops,Dell XPS,1644.87,7,0.3,266.58,First Class
+ORD10074,2023-08-27,Middle East,Corporate,Laptops,MacBook Air,2910.13,3,0.0,435.66,Standard Class
+ORD10075,2022-05-07,Europe,Corporate,Smartphones,OnePlus 9,2244.93,5,0.1,587.26,Standard Class
+ORD10076,2023-05-28,Middle East,Small Business,Laptops,HP Spectre,2103.12,5,0.0,196.27,First Class
+ORD10077,2022-08-25,Europe,Corporate,Networking,Switch,1354.94,6,0.3,90.78,Second Class
+ORD10078,2022-09-04,North America,Enterprise,Accessories,Wireless Mouse,875.8,7,0.3,115.62,Second Class
+ORD10079,2022-10-12,Asia-Pacific,Enterprise,Software,CRM Tool,190.76,3,0.0,15.27,Standard Class
+ORD10080,2023-03-29,Africa,Enterprise,Software,CRM Tool,392.41,5,0.2,18.89,Same Day
+ORD10081,2022-09-11,Middle East,Consumer,Laptops,Lenovo ThinkPad,1448.81,5,0.2,158.3,Second Class
+ORD10082,2022-04-10,South America,Corporate,Software,MS Office,1329.86,7,0.1,244.12,Same Day
+ORD10083,2022-11-21,Europe,Consumer,Networking,Router,183.65,3,0.1,28.97,Second Class
+ORD10084,2023-05-12,Asia-Pacific,Corporate,Software,Antivirus Pro,2067.69,8,0.3,304.83,First Class
+ORD10085,2023-11-06,South America,Corporate,Networking,Switch,2608.24,4,0.3,400.38,Same Day
+ORD10086,2023-09-05,Asia-Pacific,Consumer,Software,MS Office,1947.7,1,0.0,363.06,First Class
+ORD10087,2022-02-12,Europe,Enterprise,Networking,Firewall Device,1896.52,1,0.0,403.71,Standard Class
+ORD10088,2022-02-04,Africa,Enterprise,Laptops,Lenovo ThinkPad,627.58,2,0.0,46.2,Same Day
+ORD10089,2023-08-25,Africa,Consumer,Laptops,Lenovo ThinkPad,1042.83,8,0.0,272.41,Same Day
+ORD10090,2023-05-16,Europe,Enterprise,Smartphones,Samsung Galaxy S22,1054.84,3,0.0,183.55,Same Day
+ORD10091,2023-11-07,Asia-Pacific,Enterprise,Laptops,MacBook Air,1077.59,8,0.3,116.53,Standard Class
+ORD10092,2023-11-20,Europe,Corporate,Laptops,Dell XPS,573.45,9,0.3,101.04,Same Day
+ORD10093,2022-04-06,Middle East,Corporate,Laptops,HP Spectre,2208.36,4,0.1,223.6,First Class
+ORD10094,2023-06-09,Europe,Consumer,Networking,Router,1055.37,5,0.3,116.17,Standard Class
+ORD10095,2022-03-03,Africa,Small Business,Laptops,Lenovo ThinkPad,2232.73,3,0.0,322.48,First Class
+ORD10096,2022-01-19,Middle East,Corporate,Accessories,Headphones,1514.86,9,0.1,169.62,Same Day
+ORD10097,2023-03-31,Asia-Pacific,Corporate,Networking,Firewall Device,1198.14,9,0.2,69.8,Same Day
+ORD10098,2022-05-24,Africa,Small Business,Laptops,Lenovo ThinkPad,2872.56,4,0.2,398.15,First Class
+ORD10099,2023-04-14,North America,Consumer,Laptops,HP Spectre,1372.91,3,0.3,127.02,Same Day
+ORD10100,2022-04-19,North America,Consumer,Smartphones,Google Pixel 6,2269.5,7,0.3,393.04,Standard Class
+ORD10101,2022-05-13,Europe,Small Business,Smartphones,Google Pixel 6,2796.24,7,0.1,471.57,Same Day
+ORD10102,2022-03-15,Middle East,Corporate,Laptops,Dell XPS,2224.25,2,0.2,152.58,Standard Class
+ORD10103,2022-06-23,Europe,Corporate,Laptops,Lenovo ThinkPad,2519.04,1,0.0,653.99,Standard Class
+ORD10104,2022-07-13,Europe,Small Business,Software,MS Office,2117.86,9,0.1,520.31,Second Class
+ORD10105,2023-05-11,North America,Enterprise,Networking,Modem,289.98,5,0.1,77.42,Standard Class
+ORD10106,2022-11-23,Middle East,Corporate,Smartphones,iPhone 14,2596.26,6,0.3,198.41,Same Day
+ORD10107,2023-02-19,Africa,Enterprise,Laptops,Dell XPS,2958.7,4,0.3,298.37,Same Day
+ORD10108,2023-06-15,South America,Corporate,Smartphones,OnePlus 9,1470.92,6,0.2,183.64,Same Day
+ORD10109,2022-08-08,Asia-Pacific,Small Business,Smartphones,iPhone 14,378.03,3,0.0,19.97,Standard Class
+ORD10110,2022-12-27,Asia-Pacific,Enterprise,Software,MS Office,1735.85,4,0.3,293.81,Standard Class
+ORD10111,2023-05-20,Africa,Consumer,Laptops,Dell XPS,2245.42,3,0.0,245.6,Second Class
+ORD10112,2022-04-27,North America,Small Business,Smartphones,Google Pixel 6,1155.87,1,0.0,308.79,Same Day
+ORD10113,2022-07-22,Europe,Enterprise,Accessories,Headphones,2891.51,5,0.3,368.23,First Class
+ORD10114,2023-03-17,Middle East,Enterprise,Accessories,Wireless Mouse,2761.39,4,0.2,494.52,Second Class
+ORD10115,2023-02-19,Europe,Enterprise,Smartphones,Samsung Galaxy S22,1593.14,9,0.0,356.76,Same Day
+ORD10116,2023-04-16,Europe,Small Business,Smartphones,OnePlus 9,2987.7,6,0.1,392.72,Same Day
+ORD10117,2023-10-30,North America,Consumer,Smartphones,Google Pixel 6,184.07,8,0.1,27.15,Same Day
+ORD10118,2022-11-12,Africa,Corporate,Laptops,MacBook Air,1040.2,4,0.1,137.68,First Class
+ORD10119,2023-05-17,Europe,Small Business,Laptops,Dell XPS,1771.79,5,0.0,203.73,Standard Class
+ORD10120,2023-04-06,South America,Consumer,Laptops,HP Spectre,145.33,9,0.0,22.21,First Class
+ORD10121,2022-09-13,Asia-Pacific,Consumer,Software,Antivirus Pro,2069.96,3,0.0,590.21,Standard Class
+ORD10122,2022-08-30,Middle East,Enterprise,Accessories,Laptop Bag,1764.43,9,0.1,112.25,Second Class
+ORD10123,2023-01-09,North America,Consumer,Accessories,Keyboard,1677.18,5,0.2,205.04,Same Day
+ORD10124,2022-03-04,North America,Corporate,Software,CRM Tool,2441.13,1,0.2,387.72,First Class
+ORD10125,2022-04-15,South America,Consumer,Laptops,Lenovo ThinkPad,1209.32,1,0.0,79.67,Second Class
+ORD10126,2023-06-02,North America,Corporate,Smartphones,iPhone 14,1273.72,1,0.0,81.64,First Class
+ORD10127,2023-03-13,North America,Corporate,Software,Adobe Suite,2090.56,5,0.2,397.17,Standard Class
+ORD10128,2022-03-24,Europe,Enterprise,Laptops,HP Spectre,1776.19,5,0.0,424.99,Standard Class
+ORD10129,2023-11-16,North America,Corporate,Software,CRM Tool,779.68,9,0.1,79.2,First Class
+ORD10130,2022-02-03,South America,Enterprise,Software,Antivirus Pro,1838.22,1,0.0,439.79,Standard Class
+ORD10131,2023-11-05,South America,Corporate,Software,Antivirus Pro,1106.58,8,0.2,192.89,Second Class
+ORD10132,2022-02-23,North America,Corporate,Software,Adobe Suite,1454.82,3,0.2,147.74,Second Class
+ORD10133,2022-10-30,South America,Enterprise,Smartphones,Google Pixel 6,2905.52,9,0.0,242.62,First Class
+ORD10134,2022-03-16,Middle East,Small Business,Accessories,Keyboard,1290.58,5,0.0,270.82,Second Class
+ORD10135,2022-11-02,Middle East,Corporate,Smartphones,Google Pixel 6,678.24,6,0.3,25.46,Same Day
+ORD10136,2022-09-06,North America,Small Business,Accessories,Keyboard,1790.26,3,0.2,331.7,First Class
+ORD10137,2022-04-16,North America,Small Business,Accessories,Headphones,1566.27,8,0.2,186.87,Standard Class
+ORD10138,2022-07-03,North America,Small Business,Accessories,Wireless Mouse,2593.97,5,0.0,225.07,Same Day
+ORD10139,2022-03-10,South America,Corporate,Smartphones,Samsung Galaxy S22,2534.17,1,0.3,118.07,Second Class
+ORD10140,2022-02-12,Middle East,Small Business,Software,CRM Tool,2941.1,5,0.1,349.9,Second Class
+ORD10141,2022-07-02,Asia-Pacific,Enterprise,Accessories,Keyboard,758.43,3,0.2,49.89,Same Day
+ORD10142,2022-12-26,Europe,Consumer,Smartphones,OnePlus 9,1775.06,6,0.3,261.21,Standard Class
+ORD10143,2023-10-29,Middle East,Consumer,Laptops,Dell XPS,2104.68,9,0.2,452.22,Same Day
+ORD10144,2023-02-07,Africa,Small Business,Accessories,Wireless Mouse,2019.3,2,0.0,198.04,Same Day
+ORD10145,2023-06-18,Europe,Consumer,Accessories,Keyboard,2474.28,2,0.3,237.12,Standard Class
+ORD10146,2022-12-12,Europe,Consumer,Laptops,HP Spectre,311.67,1,0.0,51.49,Second Class
+ORD10147,2022-03-14,Asia-Pacific,Corporate,Accessories,Wireless Mouse,2687.94,1,0.1,320.6,Second Class
+ORD10148,2022-12-16,South America,Enterprise,Accessories,Headphones,322.26,9,0.1,20.43,Same Day
+ORD10149,2022-01-08,Middle East,Small Business,Networking,Router,513.08,1,0.1,123.33,Standard Class
+ORD10150,2022-02-25,Africa,Enterprise,Smartphones,Samsung Galaxy S22,2257.37,4,0.2,332.55,First Class
+ORD10151,2022-12-31,Asia-Pacific,Corporate,Smartphones,iPhone 14,1479.34,7,0.1,220.53,First Class
+ORD10152,2023-09-15,Middle East,Enterprise,Smartphones,OnePlus 9,233.91,8,0.2,42.73,First Class
+ORD10153,2022-01-15,North America,Consumer,Accessories,Wireless Mouse,2541.1,2,0.1,316.83,First Class
+ORD10154,2022-02-08,South America,Small Business,Software,Adobe Suite,359.36,7,0.0,34.34,Standard Class
+ORD10155,2023-06-21,Asia-Pacific,Consumer,Software,Antivirus Pro,1000.13,7,0.1,118.7,First Class
+ORD10156,2022-03-08,Africa,Corporate,Networking,Router,2677.06,4,0.0,588.35,Standard Class
+ORD10157,2023-04-15,Asia-Pacific,Small Business,Networking,Firewall Device,1964.03,2,0.2,308.04,Standard Class
+ORD10158,2023-08-18,Africa,Corporate,Accessories,Laptop Bag,1781.18,8,0.3,196.89,Standard Class
+ORD10159,2022-11-16,Africa,Enterprise,Laptops,Lenovo ThinkPad,1167.38,5,0.1,288.83,First Class
+ORD10160,2023-01-12,North America,Enterprise,Software,MS Office,1733.8,8,0.2,411.44,Second Class
+ORD10161,2023-05-18,Middle East,Small Business,Accessories,Laptop Bag,749.82,6,0.0,66.15,First Class
+ORD10162,2022-08-31,Africa,Corporate,Accessories,Laptop Bag,1489.04,8,0.2,310.41,Same Day
+ORD10163,2022-01-06,Africa,Enterprise,Networking,Firewall Device,103.82,5,0.3,21.75,First Class
+ORD10164,2023-08-29,South America,Enterprise,Accessories,Wireless Mouse,1223.67,4,0.2,248.91,First Class
+ORD10165,2023-12-16,Middle East,Small Business,Laptops,Lenovo ThinkPad,554.12,3,0.1,140.81,Standard Class
+ORD10166,2022-11-22,Middle East,Enterprise,Laptops,Lenovo ThinkPad,1736.26,3,0.0,420.82,Standard Class
+ORD10167,2023-06-16,South America,Small Business,Laptops,Lenovo ThinkPad,2905.58,4,0.2,232.16,Standard Class
+ORD10168,2023-07-04,South America,Corporate,Software,MS Office,765.11,1,0.1,166.6,Second Class
+ORD10169,2023-11-04,North America,Small Business,Accessories,Wireless Mouse,1764.65,4,0.0,323.19,Same Day
+ORD10170,2023-10-12,South America,Enterprise,Smartphones,iPhone 14,1139.23,8,0.1,191.89,First Class
+ORD10171,2022-11-15,Middle East,Consumer,Laptops,HP Spectre,2970.38,8,0.1,192.39,Second Class
+ORD10172,2023-07-04,Europe,Consumer,Laptops,HP Spectre,2060.43,1,0.0,409.84,Same Day
+ORD10173,2022-08-24,North America,Consumer,Networking,Switch,1264.93,1,0.0,325.92,First Class
+ORD10174,2023-08-11,Europe,Enterprise,Networking,Switch,1255.13,5,0.3,261.58,Standard Class
+ORD10175,2023-07-26,Africa,Small Business,Laptops,Lenovo ThinkPad,1168.72,1,0.3,188.49,Same Day
+ORD10176,2022-09-27,Africa,Consumer,Networking,Switch,2533.39,8,0.2,504.28,Second Class
+ORD10177,2023-01-14,Middle East,Small Business,Smartphones,iPhone 14,2408.63,3,0.0,232.68,Second Class
+ORD10178,2022-03-30,North America,Consumer,Software,Antivirus Pro,1919.59,4,0.0,516.95,First Class
+ORD10179,2023-11-22,Asia-Pacific,Corporate,Accessories,Wireless Mouse,2064.8,8,0.2,377.36,Standard Class
+ORD10180,2023-10-27,Africa,Enterprise,Accessories,Wireless Mouse,1891.1,1,0.2,241.59,Same Day
+ORD10181,2023-09-08,Asia-Pacific,Corporate,Accessories,Laptop Bag,1098.32,7,0.1,183.75,Standard Class
+ORD10182,2023-08-02,Europe,Small Business,Networking,Firewall Device,725.62,7,0.2,91.65,Standard Class
+ORD10183,2022-01-15,North America,Consumer,Laptops,HP Spectre,1901.74,8,0.1,145.17,Standard Class
+ORD10184,2023-02-24,North America,Consumer,Software,Antivirus Pro,2641.96,1,0.3,435.28,First Class
+ORD10185,2023-02-15,Africa,Small Business,Software,MS Office,2993.19,9,0.0,678.69,Standard Class
+ORD10186,2023-06-01,Asia-Pacific,Corporate,Networking,Firewall Device,2244.64,4,0.1,461.64,Same Day
+ORD10187,2022-06-08,Middle East,Consumer,Laptops,MacBook Air,2636.46,1,0.1,605.81,First Class
+ORD10188,2022-06-06,Middle East,Consumer,Smartphones,OnePlus 9,1167.52,8,0.3,122.04,Same Day
+ORD10189,2023-02-15,Middle East,Small Business,Laptops,Lenovo ThinkPad,1642.59,4,0.3,279.37,Same Day
+ORD10190,2022-10-10,South America,Corporate,Networking,Switch,1941.39,3,0.3,252.34,Standard Class
+ORD10191,2022-01-23,North America,Small Business,Software,Antivirus Pro,1069.8,8,0.1,102.87,Second Class
+ORD10192,2023-09-15,Africa,Consumer,Laptops,MacBook Air,1412.92,8,0.1,95.62,Same Day
+ORD10193,2022-05-07,Europe,Corporate,Laptops,HP Spectre,2191.98,4,0.3,343.95,Same Day
+ORD10194,2023-04-07,Europe,Corporate,Networking,Switch,499.99,9,0.1,31.2,Standard Class
+ORD10195,2023-09-05,North America,Corporate,Laptops,HP Spectre,2806.38,6,0.2,365.3,Same Day
+ORD10196,2022-01-01,Europe,Small Business,Networking,Firewall Device,2955.28,4,0.1,689.87,Second Class
+ORD10197,2023-10-23,South America,Enterprise,Software,CRM Tool,2616.19,7,0.2,414.03,Same Day
+ORD10198,2022-11-09,Africa,Consumer,Software,Antivirus Pro,1168.95,5,0.0,118.53,Standard Class
+ORD10199,2023-06-21,Asia-Pacific,Corporate,Networking,Firewall Device,63.66,9,0.2,7.62,Same Day
+ORD10200,2023-04-20,North America,Consumer,Software,CRM Tool,2597.38,6,0.1,389.04,Second Class
+ORD10201,2022-06-28,Europe,Corporate,Accessories,Keyboard,2225.63,1,0.3,165.38,First Class
+ORD10202,2023-05-16,North America,Enterprise,Software,Adobe Suite,782.27,9,0.2,57.19,Same Day
+ORD10203,2023-10-24,Europe,Small Business,Software,MS Office,2748.8,1,0.0,536.42,Standard Class
+ORD10204,2022-03-25,Africa,Corporate,Accessories,Keyboard,699.29,2,0.0,125.03,Same Day
+ORD10205,2022-03-04,Asia-Pacific,Enterprise,Accessories,Laptop Bag,1404.02,4,0.1,335.06,First Class
+ORD10206,2022-05-21,Middle East,Corporate,Software,Adobe Suite,2990.78,1,0.2,475.76,First Class
+ORD10207,2022-11-14,Asia-Pacific,Corporate,Software,Adobe Suite,1222.09,3,0.2,244.36,Standard Class
+ORD10208,2022-05-24,Middle East,Small Business,Accessories,Headphones,655.16,1,0.0,94.63,Standard Class
+ORD10209,2022-06-24,Africa,Enterprise,Laptops,Dell XPS,1716.28,2,0.0,418.57,Standard Class
+ORD10210,2022-08-10,Africa,Consumer,Software,CRM Tool,1606.56,6,0.3,191.49,Standard Class
+ORD10211,2022-02-24,Africa,Small Business,Accessories,Wireless Mouse,1700.94,4,0.0,227.23,Same Day
+ORD10212,2022-03-28,North America,Small Business,Accessories,Laptop Bag,2841.04,3,0.1,464.45,Second Class
+ORD10213,2022-11-09,Asia-Pacific,Small Business,Smartphones,OnePlus 9,2937.85,2,0.2,504.68,Standard Class
+ORD10214,2022-11-24,Africa,Enterprise,Software,Antivirus Pro,704.82,8,0.2,122.91,Same Day
+ORD10215,2023-08-27,Middle East,Enterprise,Software,CRM Tool,357.12,5,0.2,77.67,Second Class
+ORD10216,2022-03-19,Africa,Consumer,Software,Adobe Suite,752.64,2,0.2,66.71,Second Class
+ORD10217,2023-04-14,Asia-Pacific,Small Business,Smartphones,Samsung Galaxy S22,1829.43,4,0.3,277.92,Second Class
+ORD10218,2022-11-26,North America,Small Business,Networking,Switch,1248.86,7,0.3,62.71,Same Day
+ORD10219,2023-01-16,South America,Consumer,Laptops,MacBook Air,302.25,7,0.0,17.12,Second Class
+ORD10220,2023-12-10,North America,Small Business,Smartphones,iPhone 14,2635.51,2,0.1,658.59,Second Class
+ORD10221,2023-01-31,South America,Corporate,Software,Antivirus Pro,1058.36,2,0.2,167.28,First Class
+ORD10222,2022-08-14,Africa,Small Business,Software,Adobe Suite,2500.43,5,0.1,547.88,Second Class
+ORD10223,2022-12-30,Middle East,Corporate,Smartphones,Google Pixel 6,2590.15,3,0.3,532.39,Standard Class
+ORD10224,2022-05-08,South America,Small Business,Software,Antivirus Pro,463.33,8,0.2,101.43,Standard Class
+ORD10225,2023-06-05,Africa,Corporate,Software,CRM Tool,587.22,2,0.2,83.67,Second Class
+ORD10226,2022-10-05,Asia-Pacific,Small Business,Smartphones,iPhone 14,1647.82,9,0.2,137.77,Second Class
+ORD10227,2022-04-19,Middle East,Enterprise,Smartphones,Google Pixel 6,2513.04,4,0.1,410.33,Second Class
+ORD10228,2022-05-08,South America,Enterprise,Accessories,Laptop Bag,2089.1,5,0.2,427.26,First Class
+ORD10229,2022-01-17,Europe,Enterprise,Networking,Modem,397.37,4,0.0,47.09,Same Day
+ORD10230,2023-09-21,North America,Small Business,Accessories,Headphones,1245.48,6,0.1,257.87,Standard Class
+ORD10231,2023-10-08,South America,Enterprise,Software,MS Office,82.44,5,0.2,18.14,Second Class
+ORD10232,2023-03-31,Middle East,Small Business,Software,Adobe Suite,2209.94,2,0.3,322.19,Second Class
+ORD10233,2023-12-03,Europe,Corporate,Accessories,Keyboard,1741.22,1,0.1,236.78,Standard Class
+ORD10234,2023-12-06,North America,Small Business,Laptops,HP Spectre,1580.81,2,0.3,320.52,Second Class
+ORD10235,2022-05-29,Asia-Pacific,Consumer,Networking,Modem,294.26,4,0.2,26.21,First Class
+ORD10236,2022-08-15,Middle East,Small Business,Networking,Modem,2519.38,4,0.0,580.42,Second Class
+ORD10237,2023-02-10,Middle East,Consumer,Accessories,Wireless Mouse,2850.46,7,0.2,657.94,First Class
+ORD10238,2022-05-28,Asia-Pacific,Consumer,Smartphones,Google Pixel 6,2211.09,1,0.1,115.01,First Class
+ORD10239,2023-05-22,Asia-Pacific,Corporate,Networking,Switch,527.94,4,0.2,110.49,Standard Class
+ORD10240,2023-05-16,Asia-Pacific,Enterprise,Accessories,Wireless Mouse,1810.69,2,0.0,439.51,Second Class
+ORD10241,2022-03-02,Africa,Consumer,Smartphones,iPhone 14,1065.93,8,0.0,163.3,Same Day
+ORD10242,2023-05-13,Europe,Small Business,Networking,Firewall Device,2080.79,9,0.2,114.83,Standard Class
+ORD10243,2023-06-08,Asia-Pacific,Enterprise,Smartphones,iPhone 14,2408.28,3,0.1,111.22,Standard Class
+ORD10244,2023-07-23,Middle East,Corporate,Laptops,Dell XPS,1114.87,1,0.0,275.93,Standard Class
+ORD10245,2023-10-23,South America,Small Business,Smartphones,iPhone 14,1365.72,8,0.2,254.63,First Class
+ORD10246,2022-07-19,Africa,Enterprise,Software,Adobe Suite,2289.16,5,0.1,431.23,Standard Class
+ORD10247,2023-05-04,North America,Enterprise,Laptops,MacBook Air,786.52,9,0.3,57.98,First Class
+ORD10248,2022-03-27,Middle East,Corporate,Laptops,HP Spectre,2834.98,7,0.0,269.73,Standard Class
+ORD10249,2023-11-19,Africa,Enterprise,Accessories,Keyboard,2750.69,5,0.2,273.61,Same Day
+ORD10250,2023-01-07,Europe,Consumer,Networking,Firewall Device,390.08,7,0.0,65.75,Same Day
+ORD10251,2022-09-30,Europe,Enterprise,Accessories,Headphones,2541.42,2,0.2,522.98,Second Class
+ORD10252,2022-04-08,North America,Small Business,Software,CRM Tool,1967.99,8,0.2,299.4,Standard Class
+ORD10253,2022-12-30,Africa,Consumer,Laptops,Lenovo ThinkPad,2660.75,8,0.1,553.63,Same Day
+ORD10254,2023-02-01,South America,Consumer,Software,CRM Tool,1738.66,8,0.0,320.96,First Class
+ORD10255,2023-06-30,Africa,Enterprise,Laptops,HP Spectre,1896.38,2,0.2,251.06,Second Class
+ORD10256,2023-02-20,Middle East,Small Business,Accessories,Laptop Bag,112.74,7,0.0,20.55,Same Day
+ORD10257,2023-04-22,Europe,Small Business,Laptops,HP Spectre,2801.14,7,0.1,347.09,Standard Class
+ORD10258,2022-08-27,North America,Small Business,Networking,Modem,160.91,9,0.3,30.23,Standard Class
+ORD10259,2023-01-24,Asia-Pacific,Enterprise,Laptops,HP Spectre,1224.95,9,0.2,152.23,Second Class
+ORD10260,2023-01-11,North America,Consumer,Smartphones,iPhone 14,2210.2,1,0.2,294.98,Standard Class
+ORD10261,2023-10-27,Europe,Consumer,Laptops,Dell XPS,897.36,4,0.1,87.55,Same Day
+ORD10262,2023-02-03,Asia-Pacific,Enterprise,Networking,Firewall Device,867.93,5,0.1,47.86,Same Day
+ORD10263,2022-03-02,Africa,Consumer,Laptops,HP Spectre,1183.76,8,0.3,86.64,Standard Class
+ORD10264,2022-10-29,South America,Consumer,Accessories,Headphones,814.0,6,0.2,175.68,Second Class
+ORD10265,2023-07-25,Middle East,Small Business,Laptops,MacBook Air,1822.36,2,0.0,429.78,Second Class
+ORD10266,2023-01-01,North America,Corporate,Networking,Modem,1234.66,6,0.0,318.12,Second Class
+ORD10267,2023-05-21,Asia-Pacific,Enterprise,Accessories,Laptop Bag,730.48,2,0.0,76.79,Second Class
+ORD10268,2022-02-16,Africa,Enterprise,Smartphones,iPhone 14,2349.77,6,0.0,151.47,Second Class
+ORD10269,2023-07-27,North America,Corporate,Accessories,Keyboard,688.16,9,0.2,109.73,Same Day
+ORD10270,2022-05-25,South America,Corporate,Networking,Modem,817.69,3,0.1,127.16,Same Day
+ORD10271,2022-03-30,Africa,Consumer,Smartphones,Google Pixel 6,503.99,3,0.1,93.32,Second Class
+ORD10272,2022-11-19,Africa,Small Business,Networking,Router,1799.17,5,0.1,266.14,Standard Class
+ORD10273,2022-11-28,North America,Small Business,Networking,Router,855.23,9,0.2,197.67,Second Class
+ORD10274,2022-08-14,Middle East,Consumer,Laptops,Dell XPS,154.5,8,0.0,29.0,Same Day
+ORD10275,2022-06-25,Africa,Corporate,Networking,Firewall Device,1254.94,6,0.3,196.71,Standard Class
+ORD10276,2023-08-16,North America,Small Business,Accessories,Keyboard,1512.83,6,0.0,158.92,Same Day
+ORD10277,2022-02-09,Africa,Small Business,Smartphones,OnePlus 9,231.48,3,0.1,40.17,Same Day
+ORD10278,2022-12-02,South America,Enterprise,Software,Antivirus Pro,2050.15,1,0.1,332.71,First Class
+ORD10279,2023-11-12,Africa,Small Business,Networking,Firewall Device,1992.43,1,0.2,425.3,First Class
+ORD10280,2022-07-10,Europe,Small Business,Smartphones,Samsung Galaxy S22,1035.33,9,0.0,227.81,Same Day
+ORD10281,2022-01-31,Europe,Consumer,Laptops,Lenovo ThinkPad,2112.02,7,0.0,570.71,Standard Class
+ORD10282,2022-03-23,North America,Corporate,Laptops,Dell XPS,2486.16,5,0.1,620.19,Standard Class
+ORD10283,2022-02-15,North America,Consumer,Smartphones,Google Pixel 6,2463.0,7,0.1,269.9,Second Class
+ORD10284,2023-12-01,Middle East,Small Business,Networking,Switch,1012.98,9,0.0,79.99,Second Class
+ORD10285,2023-02-18,Africa,Consumer,Laptops,Lenovo ThinkPad,76.76,3,0.3,4.12,Second Class
+ORD10286,2023-02-16,Asia-Pacific,Consumer,Laptops,Lenovo ThinkPad,104.36,9,0.3,19.0,Same Day
+ORD10287,2023-04-29,Middle East,Corporate,Networking,Router,1916.23,5,0.0,473.7,Standard Class
+ORD10288,2023-12-06,South America,Corporate,Networking,Router,250.12,1,0.3,11.7,Same Day
+ORD10289,2022-09-27,Middle East,Small Business,Accessories,Wireless Mouse,220.87,8,0.2,46.49,Second Class
+ORD10290,2023-01-16,North America,Enterprise,Accessories,Keyboard,2921.79,4,0.2,192.89,First Class
+ORD10291,2023-04-04,North America,Enterprise,Networking,Modem,1181.66,1,0.1,152.04,Same Day
+ORD10292,2023-05-31,Europe,Small Business,Laptops,Dell XPS,2065.72,2,0.1,310.73,Standard Class
+ORD10293,2022-06-06,North America,Consumer,Accessories,Laptop Bag,1307.23,9,0.2,190.08,First Class
+ORD10294,2022-01-22,North America,Enterprise,Accessories,Wireless Mouse,930.2,2,0.2,163.81,Second Class
+ORD10295,2023-03-16,North America,Enterprise,Smartphones,Google Pixel 6,437.44,3,0.0,127.21,Same Day
+ORD10296,2022-03-25,Europe,Enterprise,Software,MS Office,1325.39,5,0.2,164.28,Same Day
+ORD10297,2022-09-14,North America,Corporate,Smartphones,iPhone 14,1222.9,9,0.0,361.97,Second Class
+ORD10298,2022-06-12,Asia-Pacific,Consumer,Smartphones,Google Pixel 6,996.19,6,0.2,188.45,Second Class
+ORD10299,2022-09-28,Middle East,Corporate,Networking,Router,141.85,9,0.3,14.11,Second Class
+ORD10300,2023-10-19,Europe,Corporate,Networking,Router,1441.02,8,0.3,97.22,First Class
+ORD10301,2023-07-16,Asia-Pacific,Small Business,Networking,Switch,318.94,8,0.2,41.7,Same Day
+ORD10302,2023-11-24,South America,Enterprise,Networking,Router,2295.02,3,0.0,190.05,Same Day
+ORD10303,2022-06-02,Middle East,Small Business,Software,Antivirus Pro,2739.92,3,0.3,477.83,Same Day
+ORD10304,2023-06-05,South America,Enterprise,Laptops,HP Spectre,53.63,7,0.0,10.82,Second Class
+ORD10305,2023-05-16,North America,Consumer,Smartphones,OnePlus 9,641.55,9,0.3,29.66,Second Class
+ORD10306,2023-12-18,Africa,Corporate,Smartphones,iPhone 14,843.53,8,0.3,75.34,Same Day
+ORD10307,2022-12-04,South America,Corporate,Software,Antivirus Pro,491.26,5,0.1,97.32,Second Class
+ORD10308,2023-12-30,Middle East,Consumer,Accessories,Wireless Mouse,1465.82,6,0.3,219.83,Second Class
+ORD10309,2022-08-02,Africa,Small Business,Accessories,Keyboard,2587.36,6,0.0,155.0,Second Class
+ORD10310,2022-02-15,Asia-Pacific,Enterprise,Software,MS Office,2260.03,9,0.0,171.08,Standard Class
+ORD10311,2023-11-04,Middle East,Small Business,Smartphones,Google Pixel 6,470.36,6,0.1,43.43,First Class
+ORD10312,2022-08-13,South America,Enterprise,Smartphones,OnePlus 9,1700.96,2,0.3,81.09,Same Day
+ORD10313,2022-04-13,Africa,Enterprise,Networking,Router,309.21,1,0.0,21.53,Second Class
+ORD10314,2022-05-23,Africa,Corporate,Accessories,Keyboard,441.51,7,0.1,88.36,Standard Class
+ORD10315,2022-11-13,Africa,Small Business,Smartphones,Samsung Galaxy S22,640.44,7,0.3,34.14,Same Day
+ORD10316,2022-12-25,Middle East,Consumer,Accessories,Headphones,2134.1,6,0.0,606.2,Second Class
+ORD10317,2023-11-21,Africa,Consumer,Networking,Router,1858.19,9,0.1,474.62,Standard Class
+ORD10318,2023-01-18,Europe,Small Business,Software,Adobe Suite,1894.65,4,0.1,346.26,First Class
+ORD10319,2022-11-10,Europe,Enterprise,Networking,Switch,286.34,4,0.3,37.46,Second Class
+ORD10320,2022-01-14,North America,Enterprise,Software,Antivirus Pro,2362.31,3,0.2,343.2,First Class
+ORD10321,2023-06-21,South America,Consumer,Accessories,Headphones,290.81,6,0.3,22.75,First Class
+ORD10322,2023-11-16,North America,Enterprise,Networking,Switch,2621.76,3,0.2,351.41,Same Day
+ORD10323,2022-11-03,North America,Enterprise,Software,CRM Tool,587.25,7,0.0,126.07,First Class
+ORD10324,2023-07-03,Africa,Small Business,Software,MS Office,526.93,6,0.1,101.16,Second Class
+ORD10325,2023-12-15,Asia-Pacific,Small Business,Smartphones,iPhone 14,2989.19,9,0.2,508.36,First Class
+ORD10326,2022-11-28,Asia-Pacific,Enterprise,Accessories,Headphones,1239.62,6,0.2,100.06,Same Day
+ORD10327,2022-01-24,Europe,Corporate,Software,MS Office,563.87,5,0.2,69.46,Second Class
+ORD10328,2023-06-16,Europe,Small Business,Accessories,Headphones,1305.21,4,0.3,130.43,First Class
+ORD10329,2023-09-09,Africa,Consumer,Smartphones,iPhone 14,1539.29,2,0.0,274.76,Same Day
+ORD10330,2023-08-01,Middle East,Small Business,Networking,Modem,1343.92,5,0.1,207.64,Standard Class
+ORD10331,2023-01-06,Asia-Pacific,Enterprise,Accessories,Wireless Mouse,1813.28,4,0.1,348.83,Standard Class
+ORD10332,2022-01-21,Middle East,Consumer,Accessories,Wireless Mouse,887.37,3,0.0,147.71,Second Class
+ORD10333,2023-04-23,South America,Enterprise,Networking,Switch,2212.68,3,0.1,455.95,Second Class
+ORD10334,2023-07-07,Middle East,Enterprise,Software,Adobe Suite,580.07,2,0.2,71.12,Second Class
+ORD10335,2022-05-10,Asia-Pacific,Corporate,Networking,Modem,779.33,8,0.2,87.17,Second Class
+ORD10336,2022-01-28,Europe,Small Business,Networking,Router,331.02,1,0.2,33.91,Same Day
+ORD10337,2023-02-28,Middle East,Enterprise,Networking,Modem,811.49,5,0.0,106.55,Same Day
+ORD10338,2022-10-14,South America,Consumer,Accessories,Wireless Mouse,1816.21,4,0.0,198.43,Same Day
+ORD10339,2023-08-28,Africa,Corporate,Smartphones,OnePlus 9,746.35,3,0.1,62.09,Standard Class
+ORD10340,2023-11-14,North America,Corporate,Laptops,Lenovo ThinkPad,1044.16,9,0.0,169.53,Second Class
+ORD10341,2022-10-11,Africa,Small Business,Networking,Firewall Device,2848.32,9,0.3,278.76,Standard Class
+ORD10342,2022-06-14,Middle East,Small Business,Smartphones,Google Pixel 6,158.18,5,0.2,27.33,Second Class
+ORD10343,2023-01-02,North America,Consumer,Accessories,Laptop Bag,2356.28,8,0.3,266.53,First Class
+ORD10344,2023-05-26,Middle East,Consumer,Laptops,Dell XPS,2611.4,4,0.1,697.26,Same Day
+ORD10345,2023-04-30,South America,Consumer,Smartphones,iPhone 14,731.84,1,0.2,62.16,Same Day
+ORD10346,2022-07-25,Middle East,Small Business,Software,Antivirus Pro,2804.93,5,0.0,495.94,Second Class
+ORD10347,2022-09-08,Africa,Consumer,Networking,Switch,2080.21,4,0.0,353.58,Same Day
+ORD10348,2022-07-04,Africa,Consumer,Accessories,Keyboard,64.57,2,0.0,13.55,Standard Class
+ORD10349,2023-03-04,Europe,Small Business,Accessories,Keyboard,1761.33,8,0.2,254.24,Second Class
+ORD10350,2022-11-04,Europe,Corporate,Laptops,Lenovo ThinkPad,1620.12,7,0.3,94.33,Same Day
+ORD10351,2022-05-09,Middle East,Corporate,Smartphones,Samsung Galaxy S22,2128.81,7,0.3,435.84,Second Class
+ORD10352,2022-06-24,Europe,Small Business,Laptops,Dell XPS,2205.95,6,0.0,641.57,Second Class
+ORD10353,2023-02-18,Asia-Pacific,Enterprise,Laptops,Dell XPS,2093.25,7,0.2,479.19,Second Class
+ORD10354,2023-08-11,North America,Enterprise,Accessories,Headphones,1516.67,1,0.1,364.76,First Class
+ORD10355,2022-01-01,South America,Small Business,Networking,Switch,383.67,9,0.1,96.57,Same Day
+ORD10356,2023-08-25,Asia-Pacific,Small Business,Networking,Modem,686.24,5,0.3,102.23,Standard Class
+ORD10357,2023-07-29,South America,Consumer,Networking,Switch,1078.29,2,0.1,195.29,First Class
+ORD10358,2023-08-08,North America,Corporate,Smartphones,Google Pixel 6,2932.66,9,0.0,785.04,Standard Class
+ORD10359,2023-01-16,North America,Corporate,Smartphones,Samsung Galaxy S22,316.92,9,0.2,68.36,First Class
+ORD10360,2023-04-27,Middle East,Corporate,Networking,Router,2307.31,4,0.1,331.3,Second Class
+ORD10361,2022-11-27,Middle East,Corporate,Networking,Firewall Device,2298.74,9,0.2,292.21,First Class
+ORD10362,2023-10-17,Europe,Consumer,Software,MS Office,1158.23,6,0.2,47.66,Second Class
+ORD10363,2023-08-28,Europe,Consumer,Accessories,Keyboard,1909.12,7,0.2,341.91,Standard Class
+ORD10364,2022-04-12,North America,Small Business,Smartphones,Samsung Galaxy S22,1373.65,1,0.3,137.8,Second Class
+ORD10365,2022-01-03,North America,Corporate,Networking,Switch,265.93,3,0.3,40.4,Second Class
+ORD10366,2023-09-21,Europe,Enterprise,Accessories,Wireless Mouse,1649.97,8,0.3,302.36,Same Day
+ORD10367,2022-10-31,Europe,Small Business,Accessories,Headphones,2450.61,9,0.3,149.67,Same Day
+ORD10368,2022-12-09,Middle East,Corporate,Networking,Firewall Device,1761.51,4,0.2,209.4,Same Day
+ORD10369,2022-01-21,South America,Corporate,Laptops,HP Spectre,2448.31,2,0.3,495.09,Same Day
+ORD10370,2022-05-04,Asia-Pacific,Small Business,Smartphones,iPhone 14,627.55,7,0.3,93.07,First Class
+ORD10371,2022-11-20,Europe,Corporate,Accessories,Headphones,2866.25,4,0.2,332.53,Second Class
+ORD10372,2023-01-08,Middle East,Small Business,Networking,Modem,2806.59,6,0.2,169.19,Standard Class
+ORD10373,2023-02-24,South America,Corporate,Accessories,Keyboard,890.38,3,0.3,79.67,Standard Class
+ORD10374,2022-03-31,Middle East,Enterprise,Smartphones,OnePlus 9,2167.03,2,0.0,637.5,Second Class
+ORD10375,2022-02-08,North America,Small Business,Laptops,Lenovo ThinkPad,409.56,7,0.2,86.78,Second Class
+ORD10376,2023-03-21,Asia-Pacific,Corporate,Laptops,Lenovo ThinkPad,1599.23,7,0.2,98.15,Standard Class
+ORD10377,2023-01-20,South America,Consumer,Software,MS Office,806.86,4,0.3,96.52,Second Class
+ORD10378,2023-12-27,Africa,Corporate,Smartphones,Samsung Galaxy S22,1151.85,7,0.1,264.14,Same Day
+ORD10379,2023-01-13,Asia-Pacific,Corporate,Laptops,HP Spectre,1800.94,9,0.2,292.11,Second Class
+ORD10380,2022-06-03,South America,Enterprise,Accessories,Wireless Mouse,1114.28,8,0.3,107.92,Second Class
+ORD10381,2023-09-04,Europe,Enterprise,Software,MS Office,804.15,4,0.1,168.62,Same Day
+ORD10382,2023-03-15,Europe,Enterprise,Accessories,Wireless Mouse,1300.03,9,0.1,282.75,First Class
+ORD10383,2023-11-04,South America,Corporate,Smartphones,OnePlus 9,1780.49,1,0.2,380.76,Second Class
+ORD10384,2023-10-17,North America,Small Business,Accessories,Headphones,689.38,1,0.1,34.69,Second Class
+ORD10385,2023-08-13,Asia-Pacific,Small Business,Accessories,Wireless Mouse,729.23,7,0.3,106.94,First Class
+ORD10386,2022-11-16,South America,Corporate,Software,Antivirus Pro,1914.45,9,0.1,147.22,Second Class
+ORD10387,2023-01-09,South America,Corporate,Software,Antivirus Pro,452.5,5,0.1,61.53,First Class
+ORD10388,2022-10-07,Africa,Consumer,Accessories,Laptop Bag,1365.08,9,0.0,73.65,Second Class
+ORD10389,2023-07-08,Middle East,Enterprise,Laptops,HP Spectre,428.76,3,0.3,69.36,First Class
+ORD10390,2023-11-07,North America,Corporate,Networking,Router,2721.3,4,0.3,402.55,First Class
+ORD10391,2023-03-01,South America,Consumer,Laptops,Dell XPS,616.01,8,0.0,65.71,First Class
+ORD10392,2023-06-01,Africa,Corporate,Software,MS Office,1870.61,1,0.3,87.6,Same Day
+ORD10393,2023-07-16,Africa,Small Business,Software,CRM Tool,256.3,5,0.3,48.44,Standard Class
+ORD10394,2023-12-28,North America,Corporate,Laptops,HP Spectre,2056.39,3,0.1,402.3,Same Day
+ORD10395,2023-04-16,Europe,Consumer,Laptops,MacBook Air,1166.51,6,0.0,348.63,Standard Class
+ORD10396,2023-07-02,North America,Enterprise,Laptops,MacBook Air,1422.36,8,0.1,243.96,First Class
+ORD10397,2023-03-22,North America,Corporate,Accessories,Laptop Bag,2886.91,9,0.2,424.85,First Class
+ORD10398,2023-02-04,Middle East,Small Business,Laptops,Dell XPS,1296.93,7,0.3,45.67,Same Day
+ORD10399,2022-08-25,Europe,Consumer,Accessories,Keyboard,2011.49,4,0.2,453.46,First Class
+ORD10400,2022-09-05,Africa,Consumer,Software,MS Office,403.5,3,0.3,15.54,First Class
+ORD10401,2023-02-10,Asia-Pacific,Enterprise,Software,Adobe Suite,1642.87,9,0.1,266.5,Second Class
+ORD10402,2023-04-05,Asia-Pacific,Small Business,Laptops,Dell XPS,312.92,7,0.3,17.95,Second Class
+ORD10403,2023-04-26,Asia-Pacific,Consumer,Laptops,HP Spectre,2356.98,2,0.0,139.16,First Class
+ORD10404,2023-03-25,North America,Enterprise,Software,MS Office,720.7,2,0.0,51.83,Standard Class
+ORD10405,2022-07-15,North America,Consumer,Software,MS Office,951.3,4,0.1,138.53,Standard Class
+ORD10406,2022-05-23,Europe,Enterprise,Smartphones,iPhone 14,2626.34,6,0.2,518.06,Standard Class
+ORD10407,2022-08-27,Europe,Corporate,Software,MS Office,2976.87,5,0.3,212.81,First Class
+ORD10408,2022-06-07,Africa,Enterprise,Networking,Switch,1221.68,6,0.1,227.59,Same Day
+ORD10409,2023-06-10,North America,Consumer,Networking,Modem,2640.02,6,0.2,522.74,Standard Class
+ORD10410,2022-05-10,Africa,Consumer,Software,Antivirus Pro,288.71,5,0.2,21.57,Second Class
+ORD10411,2023-06-21,Asia-Pacific,Corporate,Software,Antivirus Pro,709.66,4,0.1,134.28,Same Day
+ORD10412,2022-04-20,Africa,Corporate,Smartphones,Google Pixel 6,1746.73,6,0.0,490.29,Same Day
+ORD10413,2022-01-25,Europe,Enterprise,Networking,Firewall Device,2699.87,4,0.2,622.48,First Class
+ORD10414,2023-06-21,North America,Enterprise,Accessories,Laptop Bag,2015.61,2,0.3,239.23,Second Class
+ORD10415,2023-03-23,Asia-Pacific,Corporate,Laptops,MacBook Air,736.03,4,0.1,79.12,First Class
+ORD10416,2022-10-14,Europe,Enterprise,Software,MS Office,1940.44,2,0.3,191.79,Second Class
+ORD10417,2023-10-04,Asia-Pacific,Enterprise,Smartphones,iPhone 14,230.98,3,0.1,34.29,Second Class
+ORD10418,2023-04-08,Middle East,Small Business,Laptops,MacBook Air,1479.57,2,0.0,303.13,Same Day
+ORD10419,2022-11-25,North America,Corporate,Laptops,HP Spectre,2951.85,3,0.0,252.57,Same Day
+ORD10420,2023-09-01,South America,Enterprise,Networking,Router,2358.95,3,0.2,420.91,Same Day
+ORD10421,2022-12-25,North America,Consumer,Software,CRM Tool,1552.8,7,0.3,275.54,First Class
+ORD10422,2022-08-19,Europe,Consumer,Smartphones,Google Pixel 6,701.37,4,0.3,89.24,First Class
+ORD10423,2023-04-28,Europe,Corporate,Software,Antivirus Pro,2186.74,5,0.3,231.44,Same Day
+ORD10424,2023-08-21,Asia-Pacific,Consumer,Software,Antivirus Pro,1134.89,6,0.1,96.24,Second Class
+ORD10425,2023-02-09,Middle East,Consumer,Smartphones,Samsung Galaxy S22,2893.28,7,0.1,217.3,Second Class
+ORD10426,2023-02-27,Africa,Small Business,Smartphones,OnePlus 9,106.62,5,0.1,21.13,Second Class
+ORD10427,2022-08-01,South America,Enterprise,Accessories,Laptop Bag,1875.9,5,0.1,186.22,Standard Class
+ORD10428,2023-04-10,North America,Enterprise,Networking,Modem,636.63,5,0.0,38.62,First Class
+ORD10429,2023-09-21,Middle East,Corporate,Accessories,Wireless Mouse,373.72,5,0.3,30.48,Same Day
+ORD10430,2023-08-17,North America,Enterprise,Software,CRM Tool,1490.31,4,0.1,175.93,Same Day
+ORD10431,2023-02-26,Europe,Small Business,Software,Adobe Suite,1454.25,9,0.0,216.13,Second Class
+ORD10432,2022-04-30,Asia-Pacific,Corporate,Accessories,Keyboard,1207.56,1,0.0,91.22,Same Day
+ORD10433,2022-01-29,North America,Enterprise,Networking,Firewall Device,980.45,1,0.1,140.66,First Class
+ORD10434,2022-08-20,Africa,Corporate,Laptops,MacBook Air,874.13,2,0.1,89.11,Same Day
+ORD10435,2023-12-27,Europe,Corporate,Networking,Firewall Device,1411.36,7,0.1,186.2,Same Day
+ORD10436,2022-06-22,North America,Consumer,Networking,Switch,1928.18,1,0.3,219.54,First Class
+ORD10437,2022-07-19,Asia-Pacific,Corporate,Laptops,HP Spectre,493.0,1,0.2,86.79,First Class
+ORD10438,2023-04-28,North America,Corporate,Accessories,Laptop Bag,300.14,1,0.0,75.19,Second Class
+ORD10439,2023-01-01,South America,Corporate,Smartphones,iPhone 14,85.72,5,0.3,14.06,First Class
+ORD10440,2023-05-14,Asia-Pacific,Consumer,Laptops,MacBook Air,2975.19,4,0.2,679.72,Standard Class
+ORD10441,2022-12-18,Asia-Pacific,Corporate,Accessories,Laptop Bag,596.33,5,0.0,128.26,First Class
+ORD10442,2022-08-08,Asia-Pacific,Corporate,Software,Adobe Suite,252.7,6,0.2,14.26,Second Class
+ORD10443,2022-11-25,Africa,Corporate,Software,Antivirus Pro,2701.76,8,0.3,202.29,Standard Class
+ORD10444,2023-01-17,Asia-Pacific,Enterprise,Software,CRM Tool,1176.72,2,0.2,75.64,First Class
+ORD10445,2022-04-29,Africa,Enterprise,Accessories,Keyboard,819.1,9,0.0,237.5,First Class
+ORD10446,2023-10-14,Asia-Pacific,Enterprise,Accessories,Headphones,173.76,2,0.1,39.05,Standard Class
+ORD10447,2022-06-09,Middle East,Small Business,Networking,Modem,1449.29,2,0.1,223.7,Second Class
+ORD10448,2022-09-30,Africa,Corporate,Software,CRM Tool,2256.82,2,0.2,110.01,Standard Class
+ORD10449,2022-05-04,Asia-Pacific,Enterprise,Laptops,Dell XPS,2787.85,7,0.0,398.78,Same Day
+ORD10450,2023-12-26,Asia-Pacific,Consumer,Smartphones,iPhone 14,1196.53,2,0.1,127.55,Same Day
+ORD10451,2022-05-02,Africa,Consumer,Networking,Switch,2044.15,3,0.1,97.83,First Class
+ORD10452,2022-08-21,Africa,Small Business,Networking,Firewall Device,2457.04,7,0.2,514.27,Standard Class
+ORD10453,2023-09-30,Africa,Enterprise,Smartphones,iPhone 14,1654.85,5,0.0,174.2,Standard Class
+ORD10454,2022-08-24,Africa,Small Business,Smartphones,Samsung Galaxy S22,2533.9,8,0.1,556.7,Second Class
+ORD10455,2023-06-18,Europe,Enterprise,Smartphones,Samsung Galaxy S22,208.88,6,0.1,55.68,First Class
+ORD10456,2023-04-08,Asia-Pacific,Corporate,Smartphones,Google Pixel 6,1641.69,2,0.1,122.53,First Class
+ORD10457,2023-02-11,Europe,Consumer,Networking,Router,321.02,2,0.2,44.2,Second Class
+ORD10458,2022-12-19,Europe,Small Business,Laptops,Lenovo ThinkPad,2530.07,6,0.2,484.86,Standard Class
+ORD10459,2022-01-30,Middle East,Consumer,Laptops,Dell XPS,1549.66,6,0.2,108.96,Same Day
+ORD10460,2022-05-16,Asia-Pacific,Small Business,Laptops,HP Spectre,2626.3,9,0.3,291.3,Standard Class
+ORD10461,2023-05-30,North America,Enterprise,Networking,Modem,1411.59,8,0.0,332.33,Second Class
+ORD10462,2023-05-06,Asia-Pacific,Small Business,Laptops,MacBook Air,2975.84,8,0.2,357.99,First Class
+ORD10463,2022-03-07,Asia-Pacific,Small Business,Accessories,Keyboard,967.24,5,0.3,171.83,Second Class
+ORD10464,2022-08-22,Middle East,Consumer,Smartphones,iPhone 14,1098.38,9,0.3,139.2,Second Class
+ORD10465,2022-01-14,Africa,Small Business,Smartphones,OnePlus 9,2294.92,6,0.3,379.82,Same Day
+ORD10466,2022-03-11,South America,Corporate,Networking,Switch,2261.16,5,0.0,496.54,Standard Class
+ORD10467,2023-01-16,Europe,Consumer,Networking,Router,2636.12,5,0.1,337.08,First Class
+ORD10468,2023-04-14,Asia-Pacific,Corporate,Laptops,HP Spectre,1947.93,8,0.1,347.58,Same Day
+ORD10469,2022-07-07,Asia-Pacific,Enterprise,Smartphones,Google Pixel 6,55.55,7,0.0,3.18,First Class
+ORD10470,2023-05-31,South America,Corporate,Software,Adobe Suite,2392.88,4,0.0,471.52,First Class
+ORD10471,2023-11-29,South America,Corporate,Software,MS Office,1554.82,3,0.3,82.75,First Class
+ORD10472,2022-06-11,Europe,Small Business,Accessories,Keyboard,1706.38,4,0.3,239.93,Standard Class
+ORD10473,2022-11-15,Middle East,Enterprise,Laptops,Lenovo ThinkPad,1818.14,3,0.2,81.06,Standard Class
+ORD10474,2023-06-26,Africa,Small Business,Networking,Firewall Device,277.32,6,0.3,25.93,Second Class
+ORD10475,2022-01-19,North America,Small Business,Software,Antivirus Pro,2946.81,5,0.2,604.17,Standard Class
+ORD10476,2022-07-02,Europe,Consumer,Software,CRM Tool,1348.59,4,0.1,160.27,Same Day
+ORD10477,2022-10-30,Asia-Pacific,Consumer,Networking,Firewall Device,745.78,4,0.0,148.83,First Class
+ORD10478,2022-07-17,Europe,Small Business,Software,Antivirus Pro,2995.13,6,0.0,279.66,Same Day
+ORD10479,2022-03-16,Africa,Corporate,Laptops,Lenovo ThinkPad,1926.72,6,0.2,400.68,Standard Class
+ORD10480,2022-05-18,North America,Enterprise,Networking,Modem,2232.96,5,0.0,427.36,Same Day
+ORD10481,2023-12-11,Europe,Small Business,Smartphones,Samsung Galaxy S22,1036.81,1,0.1,240.68,First Class
+ORD10482,2023-07-01,Africa,Corporate,Networking,Router,1578.33,3,0.0,101.07,Standard Class
+ORD10483,2022-02-18,Africa,Corporate,Laptops,Lenovo ThinkPad,1317.49,3,0.0,343.18,First Class
+ORD10484,2022-09-17,South America,Enterprise,Networking,Switch,1333.78,5,0.3,77.84,Standard Class
+ORD10485,2022-11-09,Asia-Pacific,Corporate,Networking,Router,197.03,7,0.1,49.18,First Class
+ORD10486,2022-12-30,South America,Consumer,Accessories,Wireless Mouse,70.74,9,0.1,6.77,Second Class
+ORD10487,2023-12-26,Asia-Pacific,Corporate,Networking,Modem,449.29,4,0.3,52.84,Standard Class
+ORD10488,2022-08-08,South America,Corporate,Accessories,Wireless Mouse,253.43,6,0.3,21.1,Second Class
+ORD10489,2022-07-24,North America,Small Business,Software,Antivirus Pro,2372.02,6,0.2,308.24,Standard Class
+ORD10490,2023-09-11,Asia-Pacific,Corporate,Accessories,Keyboard,841.01,9,0.0,221.41,Standard Class
+ORD10491,2023-06-03,Africa,Small Business,Laptops,HP Spectre,234.83,9,0.0,43.0,Standard Class
+ORD10492,2022-05-28,South America,Corporate,Laptops,MacBook Air,304.95,2,0.3,46.1,First Class
+ORD10493,2023-05-07,North America,Enterprise,Laptops,Lenovo ThinkPad,427.57,7,0.0,26.96,Same Day
+ORD10494,2022-03-23,North America,Small Business,Accessories,Laptop Bag,2373.75,9,0.0,701.03,Standard Class
+ORD10495,2022-11-01,Europe,Corporate,Accessories,Laptop Bag,477.65,7,0.1,42.04,First Class
+ORD10496,2023-03-21,South America,Corporate,Laptops,Lenovo ThinkPad,1418.6,9,0.0,286.74,Second Class
+ORD10497,2023-05-05,Middle East,Enterprise,Smartphones,iPhone 14,386.58,2,0.0,41.1,First Class
+ORD10498,2023-10-26,North America,Small Business,Accessories,Wireless Mouse,312.08,6,0.2,46.51,First Class
+ORD10499,2023-11-12,Africa,Consumer,Software,CRM Tool,388.57,2,0.3,62.75,Same Day
+ORD10500,2023-05-09,Asia-Pacific,Consumer,Accessories,Wireless Mouse,2385.51,1,0.0,484.8,First Class
+ORD10501,2023-05-29,Asia-Pacific,Small Business,Laptops,MacBook Air,1401.99,1,0.1,115.38,Second Class
+ORD10502,2022-05-24,North America,Corporate,Smartphones,iPhone 14,2009.35,9,0.1,134.53,Second Class
+ORD10503,2022-10-21,Europe,Enterprise,Software,CRM Tool,1264.71,7,0.1,139.6,Standard Class
+ORD10504,2023-07-15,Middle East,Enterprise,Software,Adobe Suite,2428.89,3,0.3,422.5,First Class
+ORD10505,2023-01-18,Europe,Consumer,Software,CRM Tool,644.02,7,0.0,58.72,First Class
+ORD10506,2022-08-01,South America,Consumer,Networking,Router,2287.35,4,0.1,112.17,Same Day
+ORD10507,2023-01-16,Asia-Pacific,Corporate,Smartphones,Google Pixel 6,1995.91,4,0.3,159.1,First Class
+ORD10508,2022-09-11,Asia-Pacific,Corporate,Networking,Switch,1381.16,1,0.2,207.87,Standard Class
+ORD10509,2023-11-10,Africa,Small Business,Networking,Firewall Device,1063.81,1,0.1,167.03,First Class
+ORD10510,2023-12-10,Middle East,Small Business,Networking,Switch,1987.5,9,0.2,230.72,Same Day
+ORD10511,2023-05-23,North America,Small Business,Laptops,Dell XPS,2895.21,8,0.3,366.48,Same Day
+ORD10512,2023-07-21,Asia-Pacific,Enterprise,Laptops,Dell XPS,2388.92,4,0.0,498.44,First Class
+ORD10513,2023-04-13,Asia-Pacific,Enterprise,Networking,Firewall Device,1945.89,8,0.1,156.72,Second Class
+ORD10514,2022-09-16,Asia-Pacific,Enterprise,Smartphones,iPhone 14,1695.57,2,0.2,275.86,Second Class
+ORD10515,2022-05-09,Europe,Corporate,Software,MS Office,2696.7,8,0.1,206.73,Standard Class
+ORD10516,2023-11-19,Africa,Corporate,Accessories,Wireless Mouse,148.48,8,0.0,34.62,Same Day
+ORD10517,2023-06-28,South America,Small Business,Software,Antivirus Pro,498.71,4,0.1,91.48,First Class
+ORD10518,2022-04-19,Europe,Corporate,Software,MS Office,397.05,7,0.3,82.58,Standard Class
+ORD10519,2022-09-17,North America,Enterprise,Software,CRM Tool,2953.13,5,0.1,554.6,Standard Class
+ORD10520,2023-06-21,Asia-Pacific,Enterprise,Networking,Router,2991.38,7,0.3,111.3,Same Day
+ORD10521,2023-10-28,Asia-Pacific,Consumer,Software,MS Office,324.44,4,0.0,82.97,Same Day
+ORD10522,2023-04-22,Asia-Pacific,Enterprise,Smartphones,iPhone 14,284.25,5,0.2,22.02,Standard Class
+ORD10523,2023-07-26,South America,Consumer,Networking,Switch,924.64,6,0.1,64.65,Same Day
+ORD10524,2023-04-02,Middle East,Consumer,Networking,Router,977.33,2,0.2,166.47,Standard Class
+ORD10525,2023-04-21,Africa,Corporate,Smartphones,Google Pixel 6,1105.5,2,0.1,255.76,Same Day
+ORD10526,2022-07-09,Asia-Pacific,Enterprise,Accessories,Laptop Bag,1600.03,5,0.3,287.28,First Class
+ORD10527,2022-11-03,South America,Small Business,Software,Adobe Suite,2171.28,3,0.3,420.01,Second Class
+ORD10528,2023-10-24,Europe,Enterprise,Networking,Firewall Device,1378.54,9,0.2,226.34,Second Class
+ORD10529,2022-09-29,South America,Small Business,Software,Antivirus Pro,2227.3,3,0.0,181.67,Second Class
+ORD10530,2022-02-16,Africa,Small Business,Laptops,Dell XPS,363.71,3,0.3,12.97,Second Class
+ORD10531,2023-10-02,Europe,Small Business,Accessories,Headphones,565.9,9,0.3,42.3,First Class
+ORD10532,2022-05-23,Africa,Enterprise,Smartphones,Samsung Galaxy S22,1946.5,4,0.1,312.12,First Class
+ORD10533,2022-10-29,South America,Consumer,Networking,Firewall Device,677.3,3,0.0,85.33,Standard Class
+ORD10534,2023-01-28,North America,Small Business,Networking,Firewall Device,2289.78,4,0.3,173.41,Standard Class
+ORD10535,2022-09-08,Asia-Pacific,Consumer,Software,Antivirus Pro,2375.92,2,0.2,526.12,First Class
+ORD10536,2022-05-22,North America,Small Business,Laptops,MacBook Air,50.56,2,0.3,5.13,Same Day
+ORD10537,2023-06-26,North America,Small Business,Laptops,MacBook Air,2600.46,8,0.1,339.59,Same Day
+ORD10538,2022-09-27,Asia-Pacific,Corporate,Accessories,Headphones,2416.95,4,0.0,146.24,Same Day
+ORD10539,2022-03-24,Asia-Pacific,Consumer,Accessories,Laptop Bag,2758.33,7,0.1,656.83,Second Class
+ORD10540,2022-10-11,Middle East,Small Business,Laptops,MacBook Air,2919.69,3,0.1,590.79,First Class
+ORD10541,2023-09-28,Africa,Small Business,Networking,Modem,103.12,7,0.1,21.5,Standard Class
+ORD10542,2022-04-30,Middle East,Corporate,Software,Adobe Suite,2496.71,3,0.2,324.49,Standard Class
+ORD10543,2022-09-22,Middle East,Corporate,Accessories,Headphones,2125.87,4,0.3,172.37,Standard Class
+ORD10544,2022-07-22,Africa,Corporate,Accessories,Wireless Mouse,86.59,8,0.3,7.6,Same Day
+ORD10545,2022-02-10,North America,Corporate,Networking,Firewall Device,269.01,9,0.2,50.05,Same Day
+ORD10546,2023-09-29,South America,Enterprise,Networking,Router,192.02,4,0.3,35.36,Standard Class
+ORD10547,2023-11-26,Africa,Corporate,Laptops,HP Spectre,1800.0,9,0.3,121.38,Second Class
+ORD10548,2022-02-04,Europe,Consumer,Software,Antivirus Pro,1617.38,1,0.3,66.42,Second Class
+ORD10549,2022-11-21,Africa,Corporate,Accessories,Laptop Bag,839.94,2,0.0,151.49,Standard Class
+ORD10550,2022-07-20,Asia-Pacific,Small Business,Smartphones,iPhone 14,794.31,5,0.2,109.36,Same Day
+ORD10551,2023-12-29,Europe,Small Business,Software,Adobe Suite,2733.4,4,0.2,562.69,First Class
+ORD10552,2023-02-28,South America,Enterprise,Software,Antivirus Pro,2869.68,8,0.0,641.7,First Class
+ORD10553,2023-08-28,Africa,Enterprise,Networking,Modem,984.99,9,0.2,215.22,Standard Class
+ORD10554,2023-05-20,Middle East,Corporate,Accessories,Laptop Bag,553.22,5,0.2,71.39,Second Class
+ORD10555,2023-06-24,Europe,Enterprise,Laptops,HP Spectre,2122.77,4,0.2,302.44,Second Class
+ORD10556,2022-06-11,Europe,Corporate,Networking,Router,740.84,3,0.1,77.12,Second Class
+ORD10557,2022-09-19,North America,Consumer,Software,Antivirus Pro,1445.05,9,0.0,169.42,Standard Class
+ORD10558,2022-09-19,Asia-Pacific,Enterprise,Networking,Switch,2679.87,2,0.0,160.64,Second Class
+ORD10559,2023-03-25,North America,Corporate,Networking,Modem,184.66,8,0.2,17.61,Second Class
+ORD10560,2022-10-18,Middle East,Small Business,Smartphones,iPhone 14,1378.87,1,0.2,109.23,Same Day
+ORD10561,2023-12-02,Middle East,Enterprise,Software,Antivirus Pro,1370.03,4,0.3,189.61,Standard Class
+ORD10562,2023-02-08,Asia-Pacific,Small Business,Smartphones,Samsung Galaxy S22,66.24,1,0.1,15.4,Same Day
+ORD10563,2023-12-05,Asia-Pacific,Small Business,Laptops,MacBook Air,368.68,7,0.0,58.85,First Class
+ORD10564,2022-12-10,Middle East,Corporate,Laptops,HP Spectre,1562.37,6,0.1,167.97,First Class
+ORD10565,2023-07-25,Europe,Small Business,Laptops,HP Spectre,306.92,9,0.0,24.08,Same Day
+ORD10566,2023-05-09,Asia-Pacific,Consumer,Software,MS Office,1546.87,9,0.2,214.57,First Class
+ORD10567,2022-11-28,Asia-Pacific,Enterprise,Laptops,HP Spectre,2978.81,1,0.3,324.15,Same Day
+ORD10568,2022-08-28,Africa,Enterprise,Laptops,Lenovo ThinkPad,2652.66,5,0.0,535.77,Second Class
+ORD10569,2023-06-04,Middle East,Small Business,Networking,Modem,925.35,7,0.3,165.37,First Class
+ORD10570,2023-12-28,Middle East,Enterprise,Software,CRM Tool,2595.5,7,0.1,267.24,Same Day
+ORD10571,2022-11-20,South America,Consumer,Software,Adobe Suite,169.65,4,0.1,17.43,First Class
+ORD10572,2023-02-16,South America,Enterprise,Software,Antivirus Pro,1182.32,4,0.1,77.75,First Class
+ORD10573,2023-10-17,Asia-Pacific,Consumer,Accessories,Wireless Mouse,1671.27,1,0.0,252.46,Standard Class
+ORD10574,2022-07-21,North America,Corporate,Networking,Router,2262.06,2,0.2,382.78,First Class
+ORD10575,2023-01-12,Middle East,Small Business,Laptops,HP Spectre,1117.66,2,0.2,248.86,First Class
+ORD10576,2023-09-21,Asia-Pacific,Enterprise,Networking,Firewall Device,505.25,3,0.3,74.08,First Class
+ORD10577,2022-10-23,South America,Enterprise,Laptops,Dell XPS,2712.24,6,0.2,398.14,Second Class
+ORD10578,2022-08-23,Asia-Pacific,Corporate,Laptops,MacBook Air,2469.04,9,0.1,406.92,First Class
+ORD10579,2022-05-07,Africa,Consumer,Smartphones,OnePlus 9,1483.7,5,0.0,373.9,Standard Class
+ORD10580,2022-10-04,Asia-Pacific,Enterprise,Laptops,Lenovo ThinkPad,1062.34,7,0.3,158.45,Standard Class
+ORD10581,2023-01-10,Africa,Enterprise,Software,MS Office,2092.85,2,0.3,319.72,First Class
+ORD10582,2022-12-30,Europe,Corporate,Accessories,Keyboard,1650.48,6,0.1,293.48,Same Day
+ORD10583,2022-02-10,Africa,Enterprise,Laptops,MacBook Air,2405.22,3,0.2,508.73,First Class
+ORD10584,2022-04-28,Africa,Small Business,Networking,Firewall Device,1321.41,8,0.2,206.72,Second Class
+ORD10585,2023-03-16,Europe,Corporate,Networking,Switch,2131.48,1,0.3,214.31,First Class
+ORD10586,2022-07-12,South America,Enterprise,Networking,Switch,538.6,7,0.3,23.07,Second Class
+ORD10587,2023-02-23,Africa,Enterprise,Smartphones,Samsung Galaxy S22,2842.6,3,0.0,509.71,Standard Class
+ORD10588,2022-11-21,Africa,Small Business,Laptops,Lenovo ThinkPad,1054.78,1,0.0,231.29,Same Day
+ORD10589,2022-01-31,Asia-Pacific,Consumer,Networking,Modem,1616.7,4,0.3,336.12,Standard Class
+ORD10590,2022-12-10,South America,Small Business,Software,CRM Tool,2080.41,2,0.0,222.86,Same Day
+ORD10591,2022-12-29,North America,Corporate,Accessories,Wireless Mouse,1541.09,4,0.1,82.87,First Class
+ORD10592,2022-05-05,South America,Corporate,Smartphones,OnePlus 9,1194.56,3,0.1,137.94,Second Class
+ORD10593,2022-06-19,Europe,Enterprise,Smartphones,Google Pixel 6,1402.64,5,0.1,99.77,Second Class
+ORD10594,2022-07-20,Asia-Pacific,Consumer,Accessories,Wireless Mouse,1155.67,3,0.2,148.88,Second Class
+ORD10595,2022-10-05,Middle East,Corporate,Networking,Switch,2952.84,4,0.0,432.23,Standard Class
+ORD10596,2023-11-05,Africa,Small Business,Laptops,HP Spectre,1647.15,5,0.0,310.37,First Class
+ORD10597,2023-07-08,North America,Small Business,Smartphones,Google Pixel 6,546.59,5,0.2,113.53,Second Class
+ORD10598,2023-01-18,Middle East,Enterprise,Laptops,HP Spectre,2489.1,3,0.1,144.29,Same Day
+ORD10599,2023-08-27,Middle East,Small Business,Smartphones,iPhone 14,847.23,7,0.3,81.14,First Class
+ORD10600,2022-05-19,Europe,Corporate,Software,CRM Tool,1769.8,3,0.0,365.57,Second Class
+ORD10601,2022-04-14,Europe,Consumer,Smartphones,OnePlus 9,661.56,1,0.2,142.94,Same Day
+ORD10602,2023-06-04,Europe,Enterprise,Software,MS Office,1011.18,8,0.1,150.49,Same Day
+ORD10603,2023-10-21,Asia-Pacific,Enterprise,Software,Adobe Suite,166.41,1,0.0,30.91,Same Day
+ORD10604,2023-11-16,North America,Consumer,Accessories,Headphones,440.5,5,0.1,91.4,Second Class
+ORD10605,2023-05-02,Middle East,Corporate,Software,Antivirus Pro,1402.48,6,0.0,331.64,Standard Class
+ORD10606,2023-07-12,Asia-Pacific,Enterprise,Smartphones,iPhone 14,418.22,1,0.3,34.82,First Class
+ORD10607,2023-10-28,South America,Corporate,Smartphones,Samsung Galaxy S22,151.66,6,0.0,43.57,Standard Class
+ORD10608,2023-11-26,Middle East,Consumer,Laptops,Lenovo ThinkPad,2943.91,4,0.3,356.47,Standard Class
+ORD10609,2022-08-04,Africa,Small Business,Laptops,MacBook Air,1157.22,6,0.2,93.32,Same Day
+ORD10610,2023-11-22,Europe,Consumer,Accessories,Keyboard,1351.61,9,0.2,210.12,Same Day
+ORD10611,2022-12-31,Middle East,Enterprise,Smartphones,OnePlus 9,2688.64,2,0.3,483.46,Second Class
+ORD10612,2022-12-03,North America,Corporate,Networking,Modem,1455.63,9,0.3,268.48,First Class
+ORD10613,2022-11-19,Europe,Enterprise,Laptops,MacBook Air,2548.56,8,0.2,260.92,Standard Class
+ORD10614,2022-01-22,Europe,Small Business,Laptops,MacBook Air,1372.54,7,0.3,231.21,First Class
+ORD10615,2022-11-16,Middle East,Consumer,Laptops,MacBook Air,2078.78,3,0.1,340.14,Standard Class
+ORD10616,2023-11-27,Asia-Pacific,Consumer,Smartphones,iPhone 14,933.22,2,0.0,111.7,Standard Class
+ORD10617,2022-04-23,Europe,Corporate,Smartphones,Google Pixel 6,1609.31,3,0.2,128.95,Second Class
+ORD10618,2022-01-25,Asia-Pacific,Enterprise,Smartphones,Google Pixel 6,314.95,7,0.2,59.08,Same Day
+ORD10619,2022-07-07,Asia-Pacific,Corporate,Networking,Router,1917.07,5,0.0,456.95,First Class
+ORD10620,2023-12-04,South America,Corporate,Smartphones,iPhone 14,1992.69,1,0.3,313.86,Standard Class
+ORD10621,2023-01-19,Middle East,Enterprise,Laptops,Dell XPS,311.38,9,0.1,19.45,Second Class
+ORD10622,2022-07-07,Africa,Small Business,Accessories,Wireless Mouse,2077.85,6,0.2,228.07,Same Day
+ORD10623,2022-05-03,Asia-Pacific,Enterprise,Laptops,Lenovo ThinkPad,1752.27,2,0.0,506.02,Second Class
+ORD10624,2022-06-11,Africa,Enterprise,Smartphones,Google Pixel 6,2613.39,2,0.3,143.12,Same Day
+ORD10625,2023-04-19,South America,Enterprise,Software,Adobe Suite,2393.82,6,0.3,144.61,Second Class
+ORD10626,2022-08-03,Europe,Corporate,Accessories,Wireless Mouse,1238.48,2,0.2,148.94,Standard Class
+ORD10627,2022-08-19,Asia-Pacific,Corporate,Software,Antivirus Pro,2791.22,7,0.2,123.95,Second Class
+ORD10628,2023-03-13,Africa,Corporate,Smartphones,Google Pixel 6,1455.49,1,0.0,305.83,Standard Class
+ORD10629,2022-10-08,Asia-Pacific,Small Business,Accessories,Wireless Mouse,149.32,3,0.0,23.0,Standard Class
+ORD10630,2023-03-22,Middle East,Corporate,Smartphones,Samsung Galaxy S22,412.62,1,0.2,58.02,First Class
+ORD10631,2023-10-22,Middle East,Corporate,Laptops,HP Spectre,1389.14,4,0.3,183.46,Standard Class
+ORD10632,2022-02-22,Asia-Pacific,Small Business,Accessories,Laptop Bag,2063.72,2,0.3,156.98,Second Class
+ORD10633,2022-07-24,Europe,Consumer,Smartphones,iPhone 14,2421.68,6,0.1,392.4,First Class
+ORD10634,2022-10-17,North America,Enterprise,Accessories,Laptop Bag,2754.54,8,0.1,372.76,Same Day
+ORD10635,2023-12-17,South America,Enterprise,Software,CRM Tool,444.79,2,0.2,22.62,Standard Class
+ORD10636,2022-06-03,Europe,Corporate,Networking,Switch,1237.22,9,0.2,96.27,First Class
+ORD10637,2022-03-29,Middle East,Corporate,Laptops,Lenovo ThinkPad,2159.36,6,0.1,532.37,Standard Class
+ORD10638,2022-06-06,North America,Enterprise,Laptops,Lenovo ThinkPad,2526.05,9,0.1,253.96,Standard Class
+ORD10639,2022-05-17,Middle East,Corporate,Laptops,Dell XPS,2796.12,9,0.0,230.63,Standard Class
+ORD10640,2022-05-21,Middle East,Enterprise,Accessories,Wireless Mouse,2536.0,4,0.3,491.38,First Class
+ORD10641,2023-11-22,North America,Enterprise,Laptops,MacBook Air,1296.03,6,0.3,257.72,First Class
+ORD10642,2023-12-30,Europe,Enterprise,Smartphones,Google Pixel 6,313.4,7,0.1,53.92,Second Class
+ORD10643,2022-01-13,Europe,Consumer,Laptops,Dell XPS,2126.38,7,0.0,485.37,First Class
+ORD10644,2023-03-28,Africa,Corporate,Software,MS Office,589.28,8,0.3,33.99,Second Class
+ORD10645,2023-12-24,Africa,Small Business,Accessories,Wireless Mouse,2122.49,9,0.0,358.39,Same Day
+ORD10646,2023-06-24,Europe,Corporate,Software,MS Office,1950.24,1,0.0,340.6,Same Day
+ORD10647,2022-08-15,Middle East,Small Business,Networking,Modem,2604.17,3,0.2,161.97,First Class
+ORD10648,2023-02-01,Africa,Corporate,Accessories,Wireless Mouse,1140.95,7,0.0,110.11,Same Day
+ORD10649,2022-06-15,North America,Corporate,Networking,Router,1276.6,2,0.3,127.6,First Class
+ORD10650,2023-09-13,South America,Enterprise,Accessories,Laptop Bag,1443.23,8,0.1,135.0,First Class
+ORD10651,2022-09-20,Asia-Pacific,Small Business,Accessories,Headphones,2274.37,2,0.0,191.39,Standard Class
+ORD10652,2022-05-29,Europe,Consumer,Accessories,Laptop Bag,420.89,3,0.3,86.52,Standard Class
+ORD10653,2023-06-17,Asia-Pacific,Small Business,Accessories,Headphones,2062.47,6,0.1,361.58,Second Class
+ORD10654,2022-04-28,North America,Small Business,Networking,Router,897.86,3,0.0,57.93,Standard Class
+ORD10655,2023-08-09,South America,Corporate,Smartphones,Google Pixel 6,2356.95,5,0.3,123.68,Same Day
+ORD10656,2023-02-02,South America,Consumer,Accessories,Keyboard,93.35,5,0.1,11.29,First Class
+ORD10657,2022-01-17,Europe,Consumer,Networking,Firewall Device,1270.25,9,0.2,153.52,Standard Class
+ORD10658,2023-02-13,North America,Enterprise,Networking,Modem,2722.89,4,0.3,440.7,Standard Class
+ORD10659,2022-06-05,North America,Enterprise,Laptops,HP Spectre,2892.32,6,0.0,370.12,Standard Class
+ORD10660,2023-05-17,North America,Enterprise,Smartphones,Samsung Galaxy S22,838.4,1,0.3,48.64,Standard Class
+ORD10661,2023-01-26,North America,Consumer,Smartphones,OnePlus 9,100.0,9,0.1,8.59,Second Class
+ORD10662,2023-06-03,Europe,Consumer,Smartphones,iPhone 14,101.78,5,0.0,24.76,Same Day
+ORD10663,2022-08-16,Africa,Enterprise,Software,Adobe Suite,1076.88,5,0.3,141.04,Second Class
+ORD10664,2022-08-13,Middle East,Corporate,Laptops,MacBook Air,2548.83,9,0.3,490.01,First Class
+ORD10665,2022-02-28,Asia-Pacific,Corporate,Networking,Firewall Device,1838.13,8,0.3,130.95,First Class
+ORD10666,2023-09-02,South America,Consumer,Smartphones,iPhone 14,943.6,3,0.0,101.02,Second Class
+ORD10667,2023-08-25,Africa,Consumer,Laptops,MacBook Air,1829.71,7,0.3,82.56,First Class
+ORD10668,2023-03-10,North America,Corporate,Networking,Switch,2971.12,7,0.0,542.78,Second Class
+ORD10669,2022-03-31,South America,Enterprise,Smartphones,OnePlus 9,1951.54,6,0.0,197.58,Second Class
+ORD10670,2023-05-22,Africa,Consumer,Accessories,Wireless Mouse,627.71,9,0.1,147.9,Second Class
+ORD10671,2023-02-16,Middle East,Consumer,Smartphones,Samsung Galaxy S22,1755.98,5,0.3,256.89,Standard Class
+ORD10672,2022-04-12,South America,Small Business,Networking,Modem,1946.32,1,0.0,558.3,Second Class
+ORD10673,2023-11-17,North America,Small Business,Software,CRM Tool,906.99,9,0.2,47.28,Standard Class
+ORD10674,2022-12-27,Middle East,Consumer,Software,CRM Tool,233.5,1,0.1,10.92,Second Class
+ORD10675,2022-01-15,North America,Enterprise,Networking,Modem,1370.64,6,0.0,396.78,Same Day
+ORD10676,2022-10-21,Middle East,Small Business,Networking,Firewall Device,1095.09,5,0.1,68.06,Same Day
+ORD10677,2022-08-11,Europe,Small Business,Smartphones,Samsung Galaxy S22,2789.55,2,0.1,468.59,First Class
+ORD10678,2023-05-08,Africa,Small Business,Smartphones,OnePlus 9,179.5,6,0.0,30.57,Standard Class
+ORD10679,2022-11-29,North America,Enterprise,Laptops,Dell XPS,197.44,1,0.0,58.3,Second Class
+ORD10680,2022-09-09,Middle East,Consumer,Networking,Switch,1605.34,6,0.0,159.3,Same Day
+ORD10681,2023-08-24,South America,Enterprise,Networking,Router,2984.72,9,0.3,240.03,Second Class
+ORD10682,2022-06-03,Middle East,Enterprise,Accessories,Laptop Bag,2762.19,7,0.2,228.69,Standard Class
+ORD10683,2022-12-20,Africa,Small Business,Laptops,MacBook Air,91.86,3,0.0,25.44,First Class
+ORD10684,2022-09-04,Africa,Corporate,Laptops,Lenovo ThinkPad,2110.02,5,0.3,434.73,First Class
+ORD10685,2023-05-10,Middle East,Small Business,Accessories,Headphones,1208.74,8,0.1,249.76,Standard Class
+ORD10686,2023-08-23,Europe,Corporate,Laptops,MacBook Air,734.52,7,0.0,66.6,Same Day
+ORD10687,2022-03-15,South America,Enterprise,Laptops,MacBook Air,2302.56,6,0.3,85.47,Same Day
+ORD10688,2022-11-18,Middle East,Small Business,Networking,Router,2364.04,5,0.3,417.05,Second Class
+ORD10689,2022-12-15,Africa,Corporate,Accessories,Wireless Mouse,1568.32,6,0.0,174.79,First Class
+ORD10690,2022-09-04,Europe,Consumer,Software,Antivirus Pro,1468.63,4,0.0,129.9,First Class
+ORD10691,2023-08-28,Africa,Small Business,Laptops,Lenovo ThinkPad,2762.62,3,0.0,169.15,Second Class
+ORD10692,2023-08-29,North America,Enterprise,Networking,Switch,1470.57,3,0.3,74.82,Standard Class
+ORD10693,2023-12-19,Asia-Pacific,Consumer,Laptops,Lenovo ThinkPad,2759.36,1,0.2,428.87,Standard Class
+ORD10694,2022-04-01,Europe,Consumer,Software,CRM Tool,1885.02,4,0.0,360.07,First Class
+ORD10695,2022-06-03,Middle East,Corporate,Software,Antivirus Pro,1276.03,1,0.1,316.46,First Class
+ORD10696,2023-12-16,South America,Corporate,Accessories,Wireless Mouse,2758.81,4,0.2,389.52,Same Day
+ORD10697,2022-10-05,Africa,Small Business,Networking,Firewall Device,2267.73,5,0.1,590.0,Standard Class
+ORD10698,2022-09-13,Europe,Enterprise,Smartphones,OnePlus 9,2606.97,9,0.0,411.5,Standard Class
+ORD10699,2022-10-09,Middle East,Enterprise,Smartphones,Samsung Galaxy S22,1338.01,3,0.0,239.74,Standard Class
+ORD10700,2022-06-03,South America,Corporate,Networking,Modem,2527.0,7,0.2,557.84,Standard Class
+ORD10701,2022-03-25,Middle East,Consumer,Smartphones,Google Pixel 6,2683.05,5,0.1,591.83,Standard Class
+ORD10702,2023-07-07,South America,Corporate,Software,Adobe Suite,1517.74,4,0.0,300.18,Second Class
+ORD10703,2023-05-20,Europe,Corporate,Accessories,Keyboard,922.3,7,0.1,84.48,First Class
+ORD10704,2023-01-02,Europe,Enterprise,Accessories,Keyboard,1124.85,3,0.0,185.6,Second Class
+ORD10705,2023-06-20,Asia-Pacific,Corporate,Networking,Router,2442.09,8,0.2,259.93,First Class
+ORD10706,2023-03-09,Middle East,Consumer,Laptops,Lenovo ThinkPad,1090.18,4,0.2,156.04,First Class
+ORD10707,2023-08-04,Africa,Corporate,Software,CRM Tool,1640.33,8,0.3,179.48,Standard Class
+ORD10708,2023-05-24,South America,Small Business,Networking,Router,1205.88,5,0.1,198.61,First Class
+ORD10709,2023-10-12,Europe,Enterprise,Accessories,Wireless Mouse,1278.87,6,0.1,73.27,Standard Class
+ORD10710,2022-07-31,North America,Small Business,Laptops,HP Spectre,641.65,7,0.1,30.33,First Class
+ORD10711,2022-02-07,Middle East,Consumer,Smartphones,Google Pixel 6,729.73,3,0.1,152.59,Second Class
+ORD10712,2022-12-09,South America,Consumer,Smartphones,OnePlus 9,2208.59,4,0.2,272.07,Same Day
+ORD10713,2022-07-25,Middle East,Corporate,Software,MS Office,1848.41,5,0.0,209.25,Second Class
+ORD10714,2023-05-19,Middle East,Small Business,Laptops,HP Spectre,419.8,6,0.3,87.05,Standard Class
+ORD10715,2022-09-29,Middle East,Corporate,Smartphones,OnePlus 9,2299.32,6,0.0,200.96,Standard Class
+ORD10716,2023-10-13,Europe,Consumer,Accessories,Laptop Bag,281.44,2,0.2,40.39,Standard Class
+ORD10717,2023-07-14,North America,Enterprise,Software,Adobe Suite,1903.88,6,0.0,267.36,First Class
+ORD10718,2022-04-12,North America,Enterprise,Software,Antivirus Pro,924.85,9,0.2,177.39,First Class
+ORD10719,2023-05-04,North America,Small Business,Networking,Switch,2353.16,9,0.2,267.92,Second Class
+ORD10720,2023-02-27,Africa,Enterprise,Software,MS Office,1374.0,2,0.3,91.42,Same Day
+ORD10721,2022-06-16,Asia-Pacific,Consumer,Laptops,MacBook Air,1412.06,1,0.2,252.64,Second Class
+ORD10722,2023-11-12,Asia-Pacific,Consumer,Smartphones,OnePlus 9,2558.89,9,0.0,147.68,Same Day
+ORD10723,2022-09-02,Middle East,Consumer,Laptops,HP Spectre,625.96,6,0.1,121.85,Second Class
+ORD10724,2022-04-19,Asia-Pacific,Small Business,Software,Antivirus Pro,2576.78,1,0.3,392.79,Standard Class
+ORD10725,2022-04-10,North America,Consumer,Accessories,Keyboard,2843.92,1,0.0,412.74,Second Class
+ORD10726,2022-02-12,North America,Enterprise,Smartphones,Google Pixel 6,2369.31,4,0.1,115.18,Same Day
+ORD10727,2022-09-27,Africa,Corporate,Networking,Modem,2525.04,8,0.1,513.42,First Class
+ORD10728,2022-06-17,South America,Enterprise,Networking,Modem,2537.67,7,0.3,337.06,Second Class
+ORD10729,2023-01-25,North America,Enterprise,Smartphones,Google Pixel 6,202.42,1,0.0,46.48,Same Day
+ORD10730,2023-07-09,Middle East,Small Business,Laptops,HP Spectre,399.55,3,0.2,47.67,Second Class
+ORD10731,2022-05-31,Middle East,Corporate,Smartphones,iPhone 14,2602.62,4,0.2,265.36,Standard Class
+ORD10732,2023-06-03,North America,Corporate,Software,Antivirus Pro,983.82,6,0.2,138.03,Second Class
+ORD10733,2023-08-18,Middle East,Corporate,Laptops,HP Spectre,972.95,7,0.2,204.45,Standard Class
+ORD10734,2022-04-23,Africa,Corporate,Smartphones,OnePlus 9,1902.58,4,0.3,120.8,Second Class
+ORD10735,2022-05-20,Europe,Consumer,Software,MS Office,108.4,5,0.2,8.49,Second Class
+ORD10736,2022-03-10,North America,Enterprise,Accessories,Keyboard,1882.81,1,0.0,439.02,First Class
+ORD10737,2023-05-04,Middle East,Consumer,Laptops,Lenovo ThinkPad,251.64,1,0.1,16.08,Standard Class
+ORD10738,2023-07-13,South America,Small Business,Accessories,Wireless Mouse,2072.06,5,0.2,106.33,Standard Class
+ORD10739,2023-01-26,Africa,Small Business,Networking,Switch,1175.25,1,0.0,289.36,Same Day
+ORD10740,2023-04-22,South America,Enterprise,Networking,Switch,1915.23,7,0.2,377.4,Second Class
+ORD10741,2022-12-27,Asia-Pacific,Corporate,Laptops,MacBook Air,349.05,8,0.1,89.63,Same Day
+ORD10742,2022-11-21,North America,Corporate,Smartphones,iPhone 14,2942.09,1,0.1,774.95,First Class
+ORD10743,2023-04-13,North America,Enterprise,Laptops,Dell XPS,2937.92,9,0.0,286.31,Second Class
+ORD10744,2023-01-22,South America,Consumer,Networking,Switch,1297.05,1,0.3,62.2,Standard Class
+ORD10745,2023-09-28,Asia-Pacific,Consumer,Laptops,Dell XPS,655.73,9,0.2,61.45,Second Class
+ORD10746,2023-03-15,Europe,Consumer,Software,CRM Tool,1671.34,6,0.1,129.34,Same Day
+ORD10747,2022-05-28,North America,Small Business,Laptops,Dell XPS,277.09,6,0.3,24.11,Second Class
+ORD10748,2023-02-18,Middle East,Enterprise,Networking,Router,1817.18,4,0.2,308.38,Same Day
+ORD10749,2022-10-10,Europe,Enterprise,Smartphones,OnePlus 9,1942.81,6,0.2,222.75,First Class
+ORD10750,2023-03-19,Europe,Small Business,Networking,Modem,2044.28,1,0.3,289.78,Standard Class
+ORD10751,2023-08-18,Europe,Enterprise,Networking,Router,849.73,2,0.0,79.47,First Class
+ORD10752,2023-07-14,Middle East,Consumer,Laptops,HP Spectre,362.42,5,0.2,29.94,First Class
+ORD10753,2023-02-18,Asia-Pacific,Enterprise,Networking,Modem,69.71,8,0.1,12.94,First Class
+ORD10754,2022-01-07,Middle East,Consumer,Laptops,HP Spectre,2056.33,1,0.0,301.05,Second Class
+ORD10755,2023-02-24,Asia-Pacific,Corporate,Software,CRM Tool,796.65,4,0.2,184.44,Standard Class
+ORD10756,2023-01-05,Africa,Corporate,Smartphones,Google Pixel 6,2190.89,6,0.3,331.64,Standard Class
+ORD10757,2022-12-07,Europe,Consumer,Accessories,Laptop Bag,2241.33,2,0.2,488.64,Standard Class
+ORD10758,2022-09-05,Asia-Pacific,Consumer,Accessories,Laptop Bag,2747.92,4,0.0,489.63,First Class
+ORD10759,2022-07-31,Asia-Pacific,Small Business,Software,CRM Tool,726.06,9,0.0,80.23,First Class
+ORD10760,2022-04-21,North America,Corporate,Laptops,HP Spectre,651.87,7,0.0,165.96,Second Class
+ORD10761,2022-10-26,North America,Small Business,Laptops,Lenovo ThinkPad,2229.23,1,0.0,120.27,Second Class
+ORD10762,2022-11-10,Asia-Pacific,Small Business,Smartphones,OnePlus 9,780.3,8,0.2,102.83,Second Class
+ORD10763,2023-10-12,Europe,Consumer,Smartphones,Google Pixel 6,1811.43,2,0.1,469.32,Standard Class
+ORD10764,2023-08-12,Europe,Small Business,Software,CRM Tool,2660.64,3,0.3,527.4,Same Day
+ORD10765,2023-08-26,Africa,Enterprise,Software,Adobe Suite,2370.97,3,0.1,380.69,First Class
+ORD10766,2022-03-14,North America,Corporate,Smartphones,OnePlus 9,1588.27,3,0.1,204.09,Standard Class
+ORD10767,2023-11-25,Middle East,Enterprise,Smartphones,OnePlus 9,658.34,9,0.2,61.73,First Class
+ORD10768,2023-03-21,Asia-Pacific,Corporate,Smartphones,iPhone 14,2586.48,2,0.3,446.92,Second Class
+ORD10769,2023-09-18,Europe,Small Business,Accessories,Keyboard,2627.48,6,0.1,413.49,Same Day
+ORD10770,2022-03-04,Africa,Consumer,Laptops,Lenovo ThinkPad,1965.5,5,0.2,103.78,Standard Class
+ORD10771,2022-09-13,North America,Small Business,Networking,Modem,912.53,9,0.0,114.3,Standard Class
+ORD10772,2022-07-26,South America,Small Business,Networking,Switch,1252.52,6,0.3,247.05,First Class
+ORD10773,2022-05-01,Asia-Pacific,Consumer,Networking,Firewall Device,879.06,3,0.1,41.83,Same Day
+ORD10774,2023-10-07,South America,Corporate,Networking,Firewall Device,817.7,6,0.0,73.69,Standard Class
+ORD10775,2023-09-13,North America,Corporate,Networking,Modem,2370.24,5,0.1,576.87,Standard Class
+ORD10776,2022-05-09,Africa,Corporate,Software,Antivirus Pro,2488.14,3,0.2,500.54,First Class
+ORD10777,2022-10-04,Europe,Small Business,Laptops,HP Spectre,963.93,8,0.1,159.53,First Class
+ORD10778,2022-11-07,South America,Corporate,Laptops,MacBook Air,2240.47,4,0.3,387.88,First Class
+ORD10779,2023-09-14,South America,Enterprise,Smartphones,Google Pixel 6,687.38,7,0.3,118.65,Standard Class
+ORD10780,2022-08-01,South America,Enterprise,Laptops,HP Spectre,1095.55,7,0.3,206.35,Second Class
+ORD10781,2022-02-08,North America,Small Business,Laptops,Dell XPS,2715.5,6,0.2,558.78,Same Day
+ORD10782,2023-04-10,Middle East,Enterprise,Networking,Switch,621.9,6,0.0,136.34,Second Class
+ORD10783,2023-12-27,Africa,Corporate,Smartphones,Google Pixel 6,1067.11,3,0.1,153.47,First Class
+ORD10784,2023-07-12,North America,Small Business,Smartphones,Google Pixel 6,923.03,5,0.2,70.01,First Class
+ORD10785,2023-09-08,Middle East,Small Business,Smartphones,iPhone 14,1185.17,7,0.0,108.23,First Class
+ORD10786,2023-08-29,Africa,Corporate,Smartphones,Google Pixel 6,2595.77,5,0.1,577.88,Standard Class
+ORD10787,2022-08-23,South America,Small Business,Accessories,Headphones,526.02,1,0.1,25.93,Second Class
+ORD10788,2022-04-25,Africa,Enterprise,Smartphones,Google Pixel 6,2210.62,3,0.1,159.91,First Class
+ORD10789,2022-07-25,Middle East,Enterprise,Networking,Switch,705.97,9,0.1,128.31,Standard Class
+ORD10790,2023-01-17,North America,Small Business,Smartphones,iPhone 14,542.45,6,0.2,47.11,Second Class
+ORD10791,2022-06-24,North America,Enterprise,Laptops,Lenovo ThinkPad,2881.6,8,0.2,436.2,First Class
+ORD10792,2022-06-24,Middle East,Corporate,Software,MS Office,2273.9,1,0.2,399.74,Second Class
+ORD10793,2022-04-03,Middle East,Small Business,Laptops,Lenovo ThinkPad,2273.1,2,0.1,312.98,Standard Class
+ORD10794,2022-10-22,North America,Corporate,Laptops,Dell XPS,1620.89,1,0.0,128.54,Same Day
+ORD10795,2022-11-01,Europe,Enterprise,Networking,Switch,471.38,1,0.2,29.63,First Class
+ORD10796,2023-07-28,North America,Enterprise,Smartphones,Samsung Galaxy S22,2052.75,1,0.2,254.24,Same Day
+ORD10797,2022-07-26,Middle East,Corporate,Smartphones,Samsung Galaxy S22,2388.64,9,0.2,322.11,First Class
+ORD10798,2023-09-24,South America,Corporate,Laptops,Lenovo ThinkPad,2662.58,9,0.1,553.22,Standard Class
+ORD10799,2023-05-14,Asia-Pacific,Consumer,Accessories,Headphones,2270.28,9,0.1,532.94,Standard Class
+ORD10800,2023-02-17,North America,Corporate,Accessories,Wireless Mouse,425.79,6,0.0,77.87,Second Class
+ORD10801,2022-05-19,Asia-Pacific,Enterprise,Software,CRM Tool,591.15,2,0.0,159.99,Second Class
+ORD10802,2023-01-19,Asia-Pacific,Enterprise,Networking,Firewall Device,273.31,9,0.3,10.31,Standard Class
+ORD10803,2022-07-04,Africa,Corporate,Smartphones,Google Pixel 6,650.24,8,0.1,99.38,First Class
+ORD10804,2022-03-23,North America,Enterprise,Smartphones,Google Pixel 6,2242.09,4,0.0,662.37,Same Day
+ORD10805,2022-08-09,North America,Consumer,Laptops,Lenovo ThinkPad,1157.63,6,0.2,99.91,Standard Class
+ORD10806,2022-07-25,Europe,Enterprise,Laptops,HP Spectre,1699.22,3,0.2,91.76,Standard Class
+ORD10807,2023-07-26,Asia-Pacific,Small Business,Software,Antivirus Pro,1148.97,7,0.1,148.51,Same Day
+ORD10808,2022-12-14,North America,Consumer,Smartphones,OnePlus 9,2182.08,2,0.1,511.75,Second Class
+ORD10809,2022-02-17,North America,Consumer,Networking,Firewall Device,1914.37,2,0.0,145.34,Same Day
+ORD10810,2023-01-03,Europe,Small Business,Smartphones,Google Pixel 6,246.07,8,0.0,48.21,First Class
+ORD10811,2023-12-22,Asia-Pacific,Consumer,Smartphones,Google Pixel 6,2267.65,7,0.3,284.93,Standard Class
+ORD10812,2023-07-25,South America,Corporate,Laptops,Lenovo ThinkPad,93.15,3,0.3,14.89,Standard Class
+ORD10813,2023-03-18,North America,Consumer,Networking,Router,551.15,9,0.2,120.2,Same Day
+ORD10814,2023-07-30,Asia-Pacific,Small Business,Laptops,MacBook Air,2729.27,7,0.2,435.13,Standard Class
+ORD10815,2023-11-13,Europe,Small Business,Software,CRM Tool,2334.19,5,0.0,485.74,First Class
+ORD10816,2022-02-28,South America,Corporate,Smartphones,Google Pixel 6,1274.17,6,0.3,89.69,Standard Class
+ORD10817,2023-10-12,Africa,Corporate,Software,MS Office,596.85,2,0.1,143.51,Standard Class
+ORD10818,2023-01-31,North America,Enterprise,Accessories,Headphones,1545.83,1,0.1,311.69,Second Class
+ORD10819,2023-01-04,North America,Corporate,Smartphones,OnePlus 9,1359.38,7,0.1,354.34,Standard Class
+ORD10820,2023-11-09,South America,Enterprise,Networking,Modem,852.24,6,0.0,98.87,Standard Class
+ORD10821,2022-06-05,Middle East,Enterprise,Laptops,HP Spectre,2257.29,1,0.1,238.46,Same Day
+ORD10822,2023-03-13,Europe,Corporate,Laptops,MacBook Air,1416.19,4,0.2,131.6,Second Class
+ORD10823,2022-12-06,Middle East,Enterprise,Smartphones,Google Pixel 6,2454.07,4,0.3,412.65,First Class
+ORD10824,2023-01-27,Africa,Enterprise,Networking,Switch,2332.3,4,0.3,143.1,Standard Class
+ORD10825,2023-08-31,North America,Enterprise,Laptops,MacBook Air,141.89,6,0.1,19.64,Standard Class
+ORD10826,2023-11-21,South America,Enterprise,Laptops,Dell XPS,768.02,5,0.3,32.12,Standard Class
+ORD10827,2023-05-19,South America,Corporate,Accessories,Laptop Bag,2362.13,9,0.3,165.79,Same Day
+ORD10828,2022-09-15,Middle East,Consumer,Smartphones,iPhone 14,1009.61,7,0.3,153.14,Standard Class
+ORD10829,2023-07-04,Middle East,Corporate,Networking,Router,2256.61,1,0.1,460.44,First Class
+ORD10830,2022-04-01,Asia-Pacific,Consumer,Smartphones,iPhone 14,330.01,4,0.3,30.41,Second Class
+ORD10831,2022-12-17,Middle East,Consumer,Laptops,MacBook Air,2429.66,3,0.0,404.43,Second Class
+ORD10832,2023-11-30,Middle East,Enterprise,Smartphones,Google Pixel 6,169.03,1,0.2,7.52,First Class
+ORD10833,2023-05-23,Middle East,Small Business,Accessories,Keyboard,2555.08,6,0.2,109.2,Second Class
+ORD10834,2023-04-07,South America,Consumer,Networking,Modem,1980.31,3,0.1,95.52,Same Day
+ORD10835,2023-11-26,South America,Small Business,Networking,Firewall Device,2753.98,1,0.3,245.29,Standard Class
+ORD10836,2022-05-05,Africa,Corporate,Accessories,Keyboard,2519.5,3,0.2,415.52,First Class
+ORD10837,2023-01-18,Middle East,Consumer,Laptops,Dell XPS,1781.46,9,0.3,371.2,Second Class
+ORD10838,2023-10-27,Africa,Enterprise,Software,CRM Tool,2212.36,2,0.1,168.47,Standard Class
+ORD10839,2023-09-14,Asia-Pacific,Enterprise,Accessories,Laptop Bag,725.18,3,0.2,163.63,Same Day
+ORD10840,2023-07-17,North America,Enterprise,Software,CRM Tool,1145.88,5,0.2,94.34,Standard Class
+ORD10841,2022-06-19,Middle East,Consumer,Smartphones,Samsung Galaxy S22,1357.03,2,0.3,251.98,First Class
+ORD10842,2022-07-08,South America,Small Business,Laptops,HP Spectre,2159.55,9,0.1,123.1,First Class
+ORD10843,2023-04-16,Asia-Pacific,Small Business,Accessories,Headphones,2040.62,7,0.1,263.14,First Class
+ORD10844,2023-05-26,South America,Small Business,Accessories,Laptop Bag,2778.89,5,0.2,495.13,Second Class
+ORD10845,2022-03-05,Middle East,Small Business,Networking,Firewall Device,2924.03,6,0.1,496.51,Same Day
+ORD10846,2023-02-10,Asia-Pacific,Enterprise,Laptops,MacBook Air,2440.26,1,0.2,197.25,Second Class
+ORD10847,2023-03-10,South America,Corporate,Software,Antivirus Pro,1392.76,1,0.0,399.98,Same Day
+ORD10848,2022-07-26,Europe,Corporate,Accessories,Headphones,106.48,1,0.2,7.91,Same Day
+ORD10849,2023-10-05,North America,Consumer,Accessories,Laptop Bag,2522.56,6,0.3,512.49,Standard Class
+ORD10850,2023-03-14,North America,Enterprise,Smartphones,Google Pixel 6,1935.14,2,0.0,500.13,First Class
+ORD10851,2022-05-30,North America,Enterprise,Accessories,Wireless Mouse,1770.41,8,0.3,171.93,First Class
+ORD10852,2023-10-02,Middle East,Small Business,Networking,Modem,2122.79,8,0.1,135.92,Second Class
+ORD10853,2023-06-03,North America,Consumer,Accessories,Wireless Mouse,1868.13,7,0.3,291.18,Same Day
+ORD10854,2022-08-03,North America,Consumer,Accessories,Headphones,1529.65,8,0.3,154.04,First Class
+ORD10855,2022-08-22,Africa,Consumer,Software,Adobe Suite,895.23,9,0.2,71.72,First Class
+ORD10856,2023-08-30,North America,Consumer,Accessories,Wireless Mouse,2089.07,7,0.0,347.31,First Class
+ORD10857,2023-09-23,Middle East,Small Business,Networking,Modem,2338.94,4,0.3,109.29,First Class
+ORD10858,2023-05-09,Europe,Enterprise,Accessories,Wireless Mouse,1218.09,1,0.3,232.75,Standard Class
+ORD10859,2022-10-03,Europe,Small Business,Accessories,Wireless Mouse,1187.51,2,0.2,97.56,Standard Class
+ORD10860,2023-04-30,Asia-Pacific,Small Business,Smartphones,iPhone 14,212.91,8,0.1,13.17,First Class
+ORD10861,2023-08-07,Europe,Enterprise,Laptops,Lenovo ThinkPad,1613.15,5,0.1,132.85,Second Class
+ORD10862,2022-04-20,Europe,Enterprise,Networking,Router,1347.23,8,0.2,268.99,Same Day
+ORD10863,2023-06-24,Africa,Enterprise,Networking,Modem,1910.21,8,0.3,343.18,Same Day
+ORD10864,2023-05-31,South America,Consumer,Laptops,HP Spectre,1098.19,4,0.0,101.61,Standard Class
+ORD10865,2023-01-11,North America,Enterprise,Networking,Switch,483.42,6,0.2,114.74,Second Class
+ORD10866,2022-10-29,Middle East,Small Business,Networking,Switch,294.07,2,0.2,29.55,Same Day
+ORD10867,2023-02-28,Africa,Enterprise,Accessories,Wireless Mouse,2421.22,5,0.3,330.79,Same Day
+ORD10868,2023-03-22,Europe,Corporate,Software,CRM Tool,945.69,8,0.2,38.42,Same Day
+ORD10869,2023-05-05,South America,Consumer,Software,Adobe Suite,2632.45,1,0.2,623.49,Standard Class
+ORD10870,2022-03-30,South America,Corporate,Networking,Switch,2476.02,5,0.3,244.3,First Class
+ORD10871,2023-02-03,Europe,Corporate,Networking,Modem,1744.15,3,0.3,298.22,Standard Class
+ORD10872,2022-02-01,Middle East,Enterprise,Laptops,Dell XPS,637.78,7,0.2,97.27,Second Class
+ORD10873,2022-03-23,Africa,Small Business,Software,MS Office,2674.08,4,0.1,237.76,Standard Class
+ORD10874,2022-02-07,Asia-Pacific,Small Business,Smartphones,iPhone 14,1439.06,9,0.2,218.62,Same Day
+ORD10875,2022-01-18,Middle East,Enterprise,Smartphones,iPhone 14,2522.78,7,0.0,668.41,Same Day
+ORD10876,2022-08-12,Asia-Pacific,Consumer,Laptops,HP Spectre,413.54,7,0.3,44.59,Second Class
+ORD10877,2023-08-12,South America,Enterprise,Accessories,Headphones,421.71,1,0.0,39.59,Same Day
+ORD10878,2022-03-13,Middle East,Corporate,Laptops,Lenovo ThinkPad,1758.98,6,0.3,360.22,Same Day
+ORD10879,2022-08-08,Africa,Enterprise,Accessories,Wireless Mouse,1147.91,6,0.2,176.98,Same Day
+ORD10880,2023-12-21,Europe,Corporate,Smartphones,OnePlus 9,537.64,3,0.3,64.99,Second Class
+ORD10881,2022-07-04,Europe,Enterprise,Software,CRM Tool,892.84,6,0.3,118.55,Same Day
+ORD10882,2023-11-30,South America,Corporate,Accessories,Wireless Mouse,2367.65,3,0.1,302.26,Second Class
+ORD10883,2022-05-07,Europe,Consumer,Laptops,MacBook Air,1045.57,5,0.1,279.6,Standard Class
+ORD10884,2023-01-18,Middle East,Small Business,Accessories,Laptop Bag,700.49,5,0.1,113.79,Same Day
+ORD10885,2023-12-18,South America,Consumer,Networking,Switch,826.58,2,0.0,170.96,First Class
+ORD10886,2022-09-30,Asia-Pacific,Consumer,Laptops,Lenovo ThinkPad,734.56,4,0.0,138.53,First Class
+ORD10887,2022-10-06,Middle East,Corporate,Networking,Firewall Device,917.15,8,0.1,237.0,First Class
+ORD10888,2023-11-30,North America,Consumer,Networking,Modem,909.81,8,0.2,79.73,Standard Class
+ORD10889,2023-12-02,South America,Consumer,Networking,Modem,1790.35,5,0.0,435.29,First Class
+ORD10890,2022-10-13,Middle East,Consumer,Networking,Router,505.75,2,0.1,71.69,Same Day
+ORD10891,2022-12-04,Europe,Enterprise,Software,MS Office,2998.7,2,0.0,680.8,Same Day
+ORD10892,2023-07-21,Middle East,Small Business,Software,Antivirus Pro,553.59,5,0.1,50.38,Second Class
+ORD10893,2022-06-29,Middle East,Corporate,Accessories,Headphones,1957.47,3,0.3,298.04,Second Class
+ORD10894,2023-02-21,South America,Small Business,Networking,Modem,1554.07,5,0.2,256.83,First Class
+ORD10895,2022-02-13,Africa,Small Business,Laptops,Dell XPS,2566.3,9,0.1,690.82,First Class
+ORD10896,2022-05-20,Asia-Pacific,Enterprise,Accessories,Headphones,123.67,2,0.3,9.47,Second Class
+ORD10897,2023-10-29,North America,Enterprise,Software,CRM Tool,2187.56,9,0.0,212.82,Same Day
+ORD10898,2023-12-03,Middle East,Small Business,Networking,Firewall Device,561.81,1,0.2,112.52,Standard Class
+ORD10899,2023-04-26,Asia-Pacific,Consumer,Networking,Switch,213.8,7,0.2,36.41,Same Day
+ORD10900,2023-07-22,South America,Consumer,Laptops,Lenovo ThinkPad,748.95,5,0.0,193.8,Standard Class
+ORD10901,2022-07-11,North America,Enterprise,Accessories,Wireless Mouse,1192.6,2,0.1,58.81,Standard Class
+ORD10902,2023-01-06,Middle East,Corporate,Smartphones,Google Pixel 6,1321.78,8,0.0,159.54,First Class
+ORD10903,2022-03-04,South America,Corporate,Software,MS Office,1068.0,1,0.0,310.12,Standard Class
+ORD10904,2022-01-06,Middle East,Small Business,Smartphones,iPhone 14,172.42,7,0.3,24.06,First Class
+ORD10905,2022-04-29,Asia-Pacific,Small Business,Networking,Firewall Device,2051.57,6,0.3,376.3,Second Class
+ORD10906,2022-06-26,Asia-Pacific,Corporate,Networking,Router,1818.9,4,0.3,175.2,Standard Class
+ORD10907,2022-04-15,Asia-Pacific,Consumer,Smartphones,Samsung Galaxy S22,880.77,4,0.1,181.54,First Class
+ORD10908,2023-11-27,Africa,Corporate,Accessories,Keyboard,1073.31,3,0.1,115.47,Standard Class
+ORD10909,2023-09-01,South America,Corporate,Networking,Switch,1356.25,1,0.1,165.82,Same Day
+ORD10910,2023-05-07,Middle East,Corporate,Software,Antivirus Pro,2809.68,8,0.3,281.5,Same Day
+ORD10911,2023-01-10,Middle East,Small Business,Laptops,HP Spectre,536.41,8,0.3,44.4,Second Class
+ORD10912,2022-09-07,North America,Corporate,Software,CRM Tool,2905.83,9,0.2,407.7,First Class
+ORD10913,2022-12-26,Europe,Enterprise,Accessories,Wireless Mouse,64.83,6,0.1,16.11,Standard Class
+ORD10914,2022-10-10,Asia-Pacific,Corporate,Networking,Modem,1754.78,3,0.3,312.43,First Class
+ORD10915,2023-07-10,North America,Consumer,Software,Adobe Suite,214.04,3,0.3,39.89,Same Day
+ORD10916,2022-05-20,Asia-Pacific,Enterprise,Networking,Router,1263.03,2,0.2,273.97,Same Day
+ORD10917,2022-05-09,South America,Enterprise,Software,Antivirus Pro,2732.07,7,0.3,426.02,Second Class
+ORD10918,2022-05-29,Asia-Pacific,Corporate,Networking,Switch,1348.17,2,0.1,345.87,Standard Class
+ORD10919,2023-03-22,Middle East,Corporate,Laptops,MacBook Air,1318.37,1,0.3,73.8,Same Day
+ORD10920,2022-09-07,South America,Small Business,Software,CRM Tool,1483.16,4,0.1,294.38,First Class
+ORD10921,2022-03-11,Asia-Pacific,Corporate,Smartphones,iPhone 14,454.41,9,0.0,89.02,First Class
+ORD10922,2023-10-23,Middle East,Corporate,Laptops,MacBook Air,2712.12,7,0.3,370.88,First Class
+ORD10923,2023-07-06,Middle East,Consumer,Software,CRM Tool,2471.89,6,0.3,370.73,Same Day
+ORD10924,2023-05-18,Europe,Small Business,Software,CRM Tool,1228.58,9,0.3,45.32,Standard Class
+ORD10925,2022-11-07,North America,Enterprise,Networking,Firewall Device,799.12,5,0.1,139.68,Second Class
+ORD10926,2023-07-25,South America,Corporate,Accessories,Laptop Bag,1116.55,6,0.0,118.99,Same Day
+ORD10927,2022-01-30,Asia-Pacific,Consumer,Networking,Modem,1804.8,1,0.3,73.41,Same Day
+ORD10928,2023-03-21,South America,Enterprise,Accessories,Keyboard,2597.22,7,0.1,578.23,Standard Class
+ORD10929,2023-11-27,Africa,Small Business,Networking,Firewall Device,776.42,9,0.2,181.64,Same Day
+ORD10930,2023-08-11,North America,Small Business,Software,Antivirus Pro,1075.18,7,0.2,54.35,Same Day
+ORD10931,2023-01-20,Asia-Pacific,Consumer,Accessories,Headphones,1594.58,6,0.3,331.91,Same Day
+ORD10932,2022-07-28,Europe,Corporate,Software,Antivirus Pro,795.93,6,0.1,183.3,First Class
+ORD10933,2023-12-03,Asia-Pacific,Enterprise,Laptops,Dell XPS,275.5,3,0.0,68.46,Second Class
+ORD10934,2023-10-19,South America,Small Business,Networking,Firewall Device,2426.86,1,0.1,223.36,Same Day
+ORD10935,2022-08-27,South America,Corporate,Accessories,Keyboard,2512.04,6,0.2,211.63,First Class
+ORD10936,2023-02-19,North America,Enterprise,Accessories,Wireless Mouse,461.82,6,0.0,67.5,Second Class
+ORD10937,2023-07-24,South America,Consumer,Networking,Firewall Device,944.69,3,0.3,52.68,First Class
+ORD10938,2022-01-05,North America,Corporate,Accessories,Laptop Bag,2067.41,9,0.1,108.23,Standard Class
+ORD10939,2022-05-26,Europe,Corporate,Smartphones,OnePlus 9,969.82,6,0.1,186.39,Second Class
+ORD10940,2023-01-19,Africa,Enterprise,Smartphones,Google Pixel 6,1029.72,9,0.1,242.08,Second Class
+ORD10941,2023-02-23,Europe,Enterprise,Laptops,HP Spectre,755.47,3,0.2,172.02,First Class
+ORD10942,2022-05-02,North America,Corporate,Accessories,Keyboard,276.57,3,0.3,36.33,First Class
+ORD10943,2022-05-25,South America,Enterprise,Networking,Router,2509.25,8,0.3,356.49,Standard Class
+ORD10944,2022-06-13,South America,Consumer,Laptops,Dell XPS,2702.82,2,0.0,435.23,Same Day
+ORD10945,2022-07-06,North America,Corporate,Networking,Firewall Device,1268.86,5,0.3,92.59,Same Day
+ORD10946,2022-08-25,South America,Enterprise,Networking,Modem,136.01,4,0.0,14.28,Second Class
+ORD10947,2022-06-20,South America,Consumer,Smartphones,iPhone 14,2144.84,3,0.1,249.83,Standard Class
+ORD10948,2023-08-06,Asia-Pacific,Consumer,Software,MS Office,823.91,7,0.0,213.5,Second Class
+ORD10949,2022-11-09,Africa,Consumer,Software,Antivirus Pro,2806.2,3,0.2,468.87,Same Day
+ORD10950,2023-02-27,Asia-Pacific,Enterprise,Software,Adobe Suite,892.81,6,0.1,48.82,First Class
+ORD10951,2023-09-26,Europe,Consumer,Networking,Modem,2207.91,7,0.0,114.84,Standard Class
+ORD10952,2022-10-15,North America,Small Business,Accessories,Headphones,749.58,4,0.0,208.96,Same Day
+ORD10953,2022-07-21,Middle East,Consumer,Accessories,Keyboard,1329.62,8,0.1,213.63,Second Class
+ORD10954,2022-04-16,Europe,Corporate,Laptops,HP Spectre,1740.47,8,0.2,264.34,Standard Class
+ORD10955,2023-03-28,South America,Small Business,Accessories,Wireless Mouse,68.82,1,0.3,14.04,Same Day
+ORD10956,2023-05-19,Middle East,Small Business,Accessories,Keyboard,740.0,3,0.0,195.58,Same Day
+ORD10957,2023-05-30,Middle East,Small Business,Networking,Firewall Device,2426.02,6,0.0,364.03,Standard Class
+ORD10958,2022-04-23,Middle East,Consumer,Laptops,MacBook Air,2992.99,7,0.1,598.03,First Class
+ORD10959,2022-05-05,Africa,Enterprise,Networking,Switch,948.25,9,0.2,50.39,Second Class
+ORD10960,2022-10-08,South America,Corporate,Accessories,Headphones,706.89,4,0.3,138.17,Standard Class
+ORD10961,2023-08-09,Africa,Consumer,Accessories,Laptop Bag,522.67,8,0.3,58.75,First Class
+ORD10962,2023-01-10,South America,Corporate,Networking,Modem,2699.0,9,0.1,360.18,Same Day
+ORD10963,2022-02-17,Asia-Pacific,Enterprise,Laptops,MacBook Air,2424.64,9,0.1,196.19,First Class
+ORD10964,2023-02-09,Asia-Pacific,Corporate,Accessories,Laptop Bag,530.91,3,0.2,23.75,First Class
+ORD10965,2023-07-30,South America,Consumer,Software,Antivirus Pro,2847.34,7,0.2,264.53,Standard Class
+ORD10966,2022-11-27,Asia-Pacific,Consumer,Accessories,Headphones,869.27,9,0.1,220.41,Second Class
+ORD10967,2022-07-06,North America,Corporate,Smartphones,Google Pixel 6,1289.01,3,0.1,306.84,Same Day
+ORD10968,2023-03-07,South America,Small Business,Accessories,Laptop Bag,1770.59,6,0.0,437.06,Standard Class
+ORD10969,2023-04-19,Asia-Pacific,Enterprise,Laptops,Lenovo ThinkPad,781.23,4,0.2,32.23,First Class
+ORD10970,2023-07-29,Europe,Corporate,Accessories,Headphones,861.96,8,0.2,57.23,Standard Class
+ORD10971,2023-01-11,Europe,Consumer,Software,MS Office,199.19,1,0.2,16.9,Same Day
+ORD10972,2023-09-22,Asia-Pacific,Enterprise,Smartphones,iPhone 14,815.2,8,0.0,59.08,Same Day
+ORD10973,2022-03-12,Africa,Consumer,Smartphones,Samsung Galaxy S22,1045.49,5,0.1,112.85,Second Class
+ORD10974,2022-08-16,North America,Enterprise,Accessories,Wireless Mouse,201.32,5,0.0,26.9,First Class
+ORD10975,2022-01-21,Africa,Enterprise,Laptops,Dell XPS,2096.73,4,0.2,174.55,First Class
+ORD10976,2022-10-08,Asia-Pacific,Consumer,Smartphones,Google Pixel 6,2426.03,7,0.3,317.32,Standard Class
+ORD10977,2022-05-26,Africa,Small Business,Smartphones,iPhone 14,841.11,4,0.1,115.15,Second Class
+ORD10978,2023-04-16,Asia-Pacific,Corporate,Accessories,Laptop Bag,217.21,4,0.1,28.93,First Class
+ORD10979,2023-11-23,Africa,Consumer,Software,Adobe Suite,2418.41,6,0.0,329.4,Same Day
+ORD10980,2023-07-04,North America,Corporate,Software,Antivirus Pro,2692.29,4,0.0,289.42,Same Day
+ORD10981,2023-01-23,South America,Small Business,Accessories,Laptop Bag,759.57,9,0.3,116.06,Second Class
+ORD10982,2023-08-10,Middle East,Small Business,Laptops,MacBook Air,361.5,5,0.3,54.18,Standard Class
+ORD10983,2023-08-12,Europe,Corporate,Smartphones,iPhone 14,1113.4,4,0.0,331.17,First Class
+ORD10984,2023-04-23,Middle East,Small Business,Networking,Router,2978.12,7,0.3,613.56,Same Day
+ORD10985,2023-02-19,North America,Corporate,Networking,Modem,1087.82,3,0.0,192.29,Same Day
+ORD10986,2022-05-18,South America,Small Business,Software,CRM Tool,903.85,5,0.3,129.61,Standard Class
+ORD10987,2022-01-16,Africa,Consumer,Accessories,Laptop Bag,1311.09,8,0.0,229.67,Second Class
+ORD10988,2022-05-09,Asia-Pacific,Consumer,Smartphones,Google Pixel 6,644.51,5,0.2,114.61,Same Day
+ORD10989,2022-11-02,Asia-Pacific,Small Business,Laptops,MacBook Air,431.06,5,0.3,60.59,Standard Class
+ORD10990,2022-11-17,Middle East,Corporate,Smartphones,iPhone 14,798.07,1,0.0,138.11,Second Class
+ORD10991,2023-09-10,Africa,Corporate,Accessories,Headphones,1973.67,5,0.1,440.28,Same Day
+ORD10992,2022-06-20,Middle East,Corporate,Laptops,HP Spectre,2603.41,3,0.1,285.76,First Class
+ORD10993,2022-07-01,Asia-Pacific,Corporate,Software,Adobe Suite,2893.28,3,0.3,178.11,Same Day
+ORD10994,2023-08-19,Middle East,Enterprise,Smartphones,iPhone 14,1829.29,2,0.3,64.46,Standard Class
+ORD10995,2023-03-20,Europe,Enterprise,Smartphones,Google Pixel 6,863.97,9,0.3,64.45,First Class
+ORD10996,2023-01-09,South America,Corporate,Networking,Firewall Device,2832.03,1,0.0,609.69,Standard Class
+ORD10997,2023-06-18,Asia-Pacific,Small Business,Laptops,Lenovo ThinkPad,695.21,5,0.1,51.77,Same Day
+ORD10998,2022-12-02,Middle East,Corporate,Accessories,Headphones,409.92,2,0.2,25.7,Same Day
+ORD10999,2022-03-14,Middle East,Consumer,Smartphones,iPhone 14,1056.89,9,0.1,145.39,Second Class
